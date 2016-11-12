@@ -1,0 +1,278 @@
+# This German Language File: Copyright (C) 2013 by David Decker of deckerweb.de & genesisthemes.de
+# This file is distributed under the same license as the Jetpack Post Views Plugin package.
+#
+# Weitere deutsche Sprachdateien fuer WordPress-Plugins und -Themes sind hier zu finden:
+# --> http://deckerweb.de/sprachdateien/
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Jetpack Post Views v1.1.0 (DU-Version)\n"
+"Report-Msgid-Bugs-To: http://deckerweb.de/kontakt/\n"
+"POT-Creation-Date: 2013-12-15 16:50:10+0000\n"
+"PO-Revision-Date: 2013-12-15 18:05+0100\n"
+"Last-Translator: David Decker <http://deckerweb.de/kontakt/>\n"
+"Language-Team: DECKERWEB -- http://deckerweb.de/kontakt/\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:138
+msgid "Your site's most popular posts using Jetpack stats"
+msgstr ""
+"Die beliebtesten Beiträge Deiner Webseite, basierend auf dem Statistik-Modul "
+"von 'Jetpack'."
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:145
+msgid "Jetpack Post Views Widget"
+msgstr "Jetpack: Beitragsaufrufe-Widget"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:155 jetpack-post-views.php:317
+msgid "Jetpack Post Views Settings"
+msgstr "Jetpack Beitragsaufrufe Einstellungen"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:155
+msgid "Jetpack Post Views"
+msgstr "Jetpack Beitragsaufrufe"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:173 jetpack-post-views.php:325
+msgid "Total Views"
+msgstr "Gesamte Aufufe"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:184 jetpack-post-views.php:584
+#: jetpack-post-views.php:1023
+msgid " views"
+msgstr "Ansichten"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:217
+msgid "Settings"
+msgstr "Einstellungen"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:328
+msgid "Display total views for each post on the \"All Posts\" page."
+msgstr ""
+"Gesamte Zahl der Aufrufe/ Ansichten für jeden Beitrag auf der \"Alle Beiträge"
+"\" Seite anzeigen."
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:333
+msgid "Stats_get_csv"
+msgstr "Stats_get_csv"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:336
+msgid ""
+"Use the Jetpack function <code>stats_get_csv()</code> to update post views. "
+"Disable this option to use the Blog URI or Blog ID instead (for example, if "
+"you are using a different site's settings)."
+msgstr ""
+"Verwende die Jetpack Funktion <code>stats_get_csv()</code>, um die "
+"Beitragsaufrufe zu aktualiseren. Deaktiviere diese Option, um die Webseiten-"
+"URL oder die Webseiten-ID (Blog-ID) zu verwenden (z.B. wenn Du die "
+"Einstellungen einer anderen Webseite verwendest)."
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:341 jetpack-post-views.php:360
+msgid "Blog URI"
+msgstr "Webseiten-URL"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:344
+msgid ""
+"Use the Blog URI and WordPress API Key to update post views. If you are not "
+"using the Jetpack function <code>stats_get_csv()</code>, disabling this "
+"option may help correctly update post views."
+msgstr ""
+"Verwende die Webseiten-URL und den WordPress API-Schlüssel, um die "
+"Beitragsaufrufe zu aktualisieren. Wenn Du nicht die Jetpack Funktion "
+"<code>stats_get_csv()</code> verwendest, kann das Deaktivieren dieser Option "
+"helfen, die Beitragsaufrufe korrekt zu aktualisieren."
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:350
+msgid "Blog Information"
+msgstr "Webseiten Information"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:352
+msgid ""
+"Use the settings below if the plugin is unable to connect to Jetpack using "
+"the function <code>stats_get_csv()</code>."
+msgstr ""
+"Verwende die Einstellungen unten, wenn das Plugin nicht in der Lage ist, zu "
+"Jetpack zu verbinden über die Funktion <code>stats_get_csv()</code>."
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:356
+msgid "WordPress API Key"
+msgstr "WordPress API-Schlüssel"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:357
+msgid "https://apikey.wordpress.com/"
+msgstr "https://apikey.wordpress.com/"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:365
+msgid "Connections"
+msgstr "Verbindungen"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:367
+msgid ""
+"Shows the status of connections to the Jetpack API. If at least one of the "
+"below connections shows green, the plugin should work properly.<br>Stats "
+"updated using the first connection available in the order that they are "
+"listed."
+msgstr ""
+"Zeigt den Status der Verbindungen für die Jetpack API an. Wenn mindestens "
+"eine der unten aufgelisteten Verbindungen grün dargestellt wird, sollte das "
+"Plugin korrekt funktionieren.<br />Statistik aktualisiert, über die zuerst "
+"verfügbare Verbindung in der Reihenfolge, wie sie gelistet sind."
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:404
+msgid "Function <code>stats_get_csv()</code> exists"
+msgstr "Die Funktion <code>stats_get_csv()</code> existiert"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:410
+msgid "Can connect using Blog URI"
+msgstr "Verbindung über Webseiten-URI (Blog-URI) ist möglich"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:416
+msgid "Can connect using Blog ID"
+msgstr "Verbindung über Webseiten-ID (Blog-ID) ist möglich"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:429
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:435
+msgid "Donate to Help Support this Plugin"
+msgstr "Mit einer Spende dieses Plugin unterstützen"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:436
+msgid ""
+"Jetpack Post Views remains a free plugin thanks to donations from supporters "
+"like you. Donations like yours help me to continue supporting this plugin "
+"with regular updates and bug fixes. Thanks for being a supporter!"
+msgstr ""
+"Jetpack Beitragsaufrufe (Jetpack Post Views) bleibt ein kostenloses Plugin, "
+"dank der Spenden von Unterstützern wie Dir. Spenden helfen mir, das Plugin "
+"weiter mit Support zu versorgen, sowie mit Aktualisierungen und Behebung von "
+"Sicherheitsfehlern. Danke an alle Unterstützer!"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:437
+msgid "- Steven Lambert"
+msgstr "&mdash;Steven Lambert"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:654
+msgid "Most Popular Posts"
+msgstr "Beliebteste Beiträge"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:699
+msgid "Title:"
+msgstr "Titel"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:704
+msgid "Number of posts to show:"
+msgstr "Anzahl anzuzeigender Beiträge:"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:709
+msgid "Time interval:"
+msgstr "Zeitraum"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:711
+msgid "Unlimited"
+msgstr "Unbegrenzt"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:712
+msgid "Day"
+msgstr "Tag"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:713
+msgid "Week"
+msgstr "Woche"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:714
+msgid "Month"
+msgstr "Monat"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:715
+msgid "Year"
+msgstr "Jahr"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:721
+msgid "Display number of views?"
+msgstr "Anzahl der Aufrufe anzeigen?"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:725
+msgid "Display as:"
+msgstr "Anzeigen als:"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:727
+msgid "Title"
+msgstr "Titel"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:728
+msgid "Thumbnail"
+msgstr "Vorschaubild"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:729
+msgid "Thumbnail + Title"
+msgstr "Vorschaubild + Titel"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:738
+msgid "Exclude Posts:"
+msgstr "Auszuschließende Beiträge:"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:739
+msgid "Comma-separated list of post IDs"
+msgstr "Kommagetrennte Liste von Beitrags-IDs"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:743
+msgid "Display only from selected post types:"
+msgstr "Nur von ausgewählten Inhaltstypen anzeigen:"
+
+# @ jetpack-post-views
+#: jetpack-post-views.php:760
+msgid "Display only from selected categories:"
+msgstr "Nur von ausgewählten Kategorien anzeigen:"

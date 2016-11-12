@@ -1,0 +1,4661 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bolder 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-21 11:24+0100\n"
+"PO-Revision-Date: 2012-03-21 11:24+0100\n"
+"Last-Translator: Antonio <antonino.scarfi@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "error"
+msgstr "errore"
+
+#: 404.php:12
+msgid "Page not found"
+msgstr "Pagina non trovata"
+
+#: 404.php:15
+msgid "We are sorry but the page you are looking for does not exist."
+msgstr "Siamo spiacenti ma la pagina cercata non esiste."
+
+#: 404.php:16
+msgid "You could retourn to the "
+msgstr "Puoi ritornare a"
+
+#: 404.php:16
+msgid "or search using the search box below"
+msgstr "o cercare qualcosa utilizzando il modulo di ricerca che trovi sotto"
+
+#: archives.php:25
+#, php-format
+msgid "Last %d posts"
+msgstr ""
+
+#: archives.php:41
+#, fuzzy
+msgid "Archives by Month"
+msgstr "Archivi"
+
+#: archives.php:46
+msgid "Archives by Subject"
+msgstr "Archivi per Oggetto"
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Questo articolo è protetto da password. Inserisci la password per visualizzare i commenti."
+
+#: comments.php:30
+msgid "no comments"
+msgstr "nessun commento"
+
+#: comments.php:30
+msgid "<span>1</span> comment"
+msgstr "1 <span>commento</span>"
+
+#: comments.php:30
+msgid "<span>%</span> comments"
+msgstr "% <span>commenti</span>"
+
+#: comments.php:35
+#: comments.php:54
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Commenti Precedenti"
+
+#: comments.php:36
+#: comments.php:55
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Commenti Successivi <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:82
+msgid "No trackback or pingback available for this article"
+msgstr "Non ci sono trackback e pingback dispinibili per questo articolo"
+
+#: comments.php:94
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+#: comments.php:111
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:113
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:115
+msgid "Website"
+msgstr "Sito Web"
+
+#: comments.php:122
+#, fuzzy
+msgid "Your comment"
+msgstr "nessun commento"
+
+#: comments.php:123
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Devi essere <a href=\"%s\">loggato</a> per lasciare un commento."
+
+#: comments.php:124
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Sei loggatto come <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Disconnettiti da questo account\">Disconnetti?</a>"
+
+#: comments.php:129
+msgid "Leave a <span>Reply</span>"
+msgstr "Lascia un Commento"
+
+#: comments.php:130
+#, php-format
+msgid "Leave a <span>Reply</span> to %s"
+msgstr "Lascia un commento su %s"
+
+#: comments.php:131
+msgid "Cancel reply"
+msgstr "Cancella commento"
+
+#: comments.php:132
+msgid "Post Comment"
+msgstr "Invia Commento"
+
+#: featured_projects.php:17
+msgid "Show a slider with featured project, added into portfolio Post Type."
+msgstr ""
+
+#: gallery.php:79
+#, fuzzy
+msgid "View More"
+msgstr "|| Continua a leggere"
+
+#: header.php:46
+#, fuzzy, php-format
+msgid "Page %s"
+msgstr "%s Padre"
+
+#: header.php:121
+#, fuzzy
+msgid "View map"
+msgstr "Visualizza %s"
+
+#: header.php:122
+msgid "Close map"
+msgstr ""
+
+#: loop-blog-big.php:21
+#: loop-blog-small.php:22
+msgid "by"
+msgstr "di"
+
+#: loop-blog-big.php:23
+#: loop-blog-small.php:24
+msgid "No comments"
+msgstr "Nessun commento"
+
+#: loop-blog-big.php:23
+#: loop-blog-small.php:24
+msgid "1 comment"
+msgstr "1 commento"
+
+#: loop-blog-big.php:23
+#: loop-blog-small.php:24
+#, fuzzy, php-format
+msgid "% comments"
+msgstr "commenti"
+
+#: loop-blog-big.php:37
+#: loop-blog-small.php:32
+#: loop-portfolio.php:57
+#, fuzzy
+msgid "Edit"
+msgstr "(Modifica)"
+
+#: loop-portfolio.php:18
+#: loop.php:35
+msgid "(this post has no title)"
+msgstr "(questo post non ha titolo)"
+
+#: loop-portfolio.php:22
+#: portfolio-big_image.php:1
+msgid "Skills"
+msgstr ""
+
+#: loop-portfolio.php:24
+#: portfolio-big_image.php:1
+#, fuzzy
+msgid "Date"
+msgstr "Stato"
+
+#: loop-portfolio.php:69
+#: loop.php:48
+#, fuzzy
+msgid "Not Found"
+msgstr "Non %s trovato"
+
+#: loop-portfolio.php:71
+#: loop.php:50
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Spiacenti, nessun risultato è stato trovato per l'archivio richiesto. Forse ti può aiutare reinserendo nuove parole chiavi per la ricerca."
+
+#: loop-portfolio.php:87
+#: portfolio-3cols.php:61
+#: portfolio-big_image.php:1
+msgid "Next &raquo;"
+msgstr "Prossimo &raquo;"
+
+#: loop-portfolio.php:88
+#: portfolio-3cols.php:62
+#: portfolio-big_image.php:1
+msgid "&laquo; Back"
+msgstr "&laquo; Precedente"
+
+#: loop.php:13
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Archivio per la Categoria &#8216;%s&#8217; Category"
+
+#: loop.php:15
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Articoli Taggati  &#8216;%s&#8217;"
+
+#: loop.php:17
+#, php-format
+msgid "Archive for %s | Daily archive page"
+msgstr "Archivio per %s | Pagina di archivio giornaliera"
+
+#: loop.php:17
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: loop.php:19
+#, php-format
+msgid "Archive for %s | Monthly archive page"
+msgstr "Archivio per %s | Pagina di archivio mensile"
+
+#: loop.php:19
+msgid "F Y"
+msgstr "F Y"
+
+#: loop.php:21
+#, php-format
+msgid "Archive for %s | Yearly archive page"
+msgstr "Archivio per %s | Pagina di archivio annuale"
+
+#: loop.php:21
+msgid "Y"
+msgstr "Y"
+
+#: loop.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Risultati della Ricerca per: %s"
+
+#: loop.php:25
+msgid "Author Archive"
+msgstr "Archivio Autore"
+
+#: loop.php:27
+msgid "Blog Archives"
+msgstr "Archivio Blog"
+
+#: map.php:49
+msgid "Close Map"
+msgstr ""
+
+#: map.php:49
+#, fuzzy
+msgid "View Map"
+msgstr "Visualizza %s"
+
+#: searchform.php:2
+#, fuzzy
+msgid "Search for"
+msgstr "Cerca"
+
+#: searchform.php:4
+#: sidebar-default.php:4
+msgid "Search"
+msgstr "Cerca"
+
+#: sidebar-default.php:9
+msgid "Archives"
+msgstr "Archivi"
+
+#: sidebar-default.php:16
+msgid "Categories"
+msgstr "Categorie"
+
+#: sidebar-default.php:32
+msgid "Blogroll"
+msgstr "Blogroll"
+
+#: topbar.php:15
+#, fuzzy
+msgid "Logout"
+msgstr "Larghezza Logo"
+
+#: topbar.php:17
+msgid "Login"
+msgstr "Login"
+
+#: core/functions-core.php:355
+msgid "Days"
+msgstr ""
+
+#: core/functions-core.php:355
+#, fuzzy
+msgid "Hours"
+msgstr "Lavori"
+
+#: core/functions-core.php:355
+msgid "Minutes"
+msgstr ""
+
+#: core/functions-core.php:393
+msgid "Yesterday"
+msgstr ""
+
+#: core/functions-core.php:395
+#, fuzzy
+msgid "hours"
+msgstr "Lavori"
+
+#: core/functions-core.php:395
+#: core/functions-core.php:397
+msgid "ago"
+msgstr ""
+
+#: core/functions-core.php:397
+msgid "minutes"
+msgstr ""
+
+#: core/functions-dashboard.php:16
+msgid "News from the support forum"
+msgstr "Notizie dal forum di supporto"
+
+#: core/functions-dashboard.php:17
+msgid "News from the YIW Blog"
+msgstr "Notizie dal blog di YIW"
+
+#: core/functions-metaboxes.php:127
+#: core/functions-metaboxes.php:194
+msgid "Invalid post type"
+msgstr ""
+
+#: core/register-metaboxes.php:21
+msgid "You can configure this page as you want, setting these optional options."
+msgstr "Puoi configurare questa pagina come desideri configurando queste opzioni."
+
+#: core/register-metaboxes.php:25
+msgid "Show Title"
+msgstr "Mostra Titolo"
+
+#: core/register-metaboxes.php:28
+#: core/default-widgets/almost_all_categories.php:34
+#: core/default-widgets/popular_posts.php:87
+#: core/default-widgets/recent_posts.php:85
+msgid "Yes"
+msgstr "Si"
+
+#: core/register-metaboxes.php:29
+#: core/default-widgets/almost_all_categories.php:35
+#: core/default-widgets/popular_posts.php:88
+#: core/default-widgets/recent_posts.php:86
+msgid "No"
+msgstr "No"
+
+#: core/register-metaboxes.php:35
+#, fuzzy
+msgid "Layout Page"
+msgstr "Pagina Blog"
+
+#: core/register-metaboxes.php:42
+msgid "Select layout of page"
+msgstr "Seleziona il layout di questa pagina"
+
+#: core/register-metaboxes.php:48
+#, fuzzy
+msgid "Sidebar Page"
+msgstr "Nome Sidebar"
+
+#: core/register-metaboxes.php:51
+msgid "Select sidebar of page"
+msgstr "Seleziona la sidebar della pagina"
+
+#: core/register-metaboxes.php:56
+msgid "Options of page"
+msgstr "Opzioni della Pagina"
+
+#: core/register-metaboxes.php:62
+#, fuzzy
+msgid "Remove wpautop filter to main content."
+msgstr "Rimuovi il filtro 'wpautop' dal contenuto principale."
+
+#: core/register-metaboxes.php:72
+#: core/register-metaboxes.php:78
+msgid "Slogan Page"
+msgstr "Slogan della Pagina"
+
+#: core/register-metaboxes.php:74
+msgid "Insert the slogan showed on top of this page/post."
+msgstr "Inserisci lo sloganda mostrare all'inizio di questa pagina/post."
+
+#: core/register-metaboxes.php:84
+msgid "If you want, you can add some text to show above the footer, under content and sidebar."
+msgstr "Se vuoi puoi aggiungere un contenuto testuale da mostrare prima del footer, sotto il contenuto della pagina e della sidebar."
+
+#: core/register-metaboxes.php:92
+#, fuzzy
+msgid "Automatically add paragraphs."
+msgstr "Aggiungi paragrafi automaticamente"
+
+#: core/register-metaboxes.php:96
+msgid "Extra Content"
+msgstr "Contenuto Extra"
+
+#: core/sendemail.php:100
+msgid "Email sent correctly!"
+msgstr "Email inviata correttamente"
+
+#: core/sendemail.php:103
+msgid "An error has been encountered. Please try again."
+msgstr "Si è verificato un errore. Per favore riprova."
+
+#: core/sendemail.php:267
+msgid "send message"
+msgstr "invia messaggio"
+
+#: core/sendemail.php:267
+msgid "alignright"
+msgstr "destra"
+
+#: core/sendemail.php:306
+msgid "wait..."
+msgstr "attendi..."
+
+#: core/settings.php:22
+#, fuzzy, php-format
+msgid "The theme you are using requires WordPress version %s or higher. So, many features of it will not perform correctly."
+msgstr "Il tema che stai utilizzando richiede una versione di WordPress 3.0 o superiore. Molte caratteristiche di questo tema non funzioneranno correttamente con la tua versione attuale di WordPress."
+
+#: core/settings.php:213
+#, php-format
+msgid "%s "
+msgstr "%s "
+
+#: core/settings.php:218
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: core/settings.php:227
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: core/settings.php:227
+#: core/settings.php:249
+msgid "(Edit)"
+msgstr "(Modifica)"
+
+#: core/settings.php:249
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: core/default-shortcodes/widgets.php:864
+#, fuzzy
+msgid "your name"
+msgstr "Qual è il tuo nome?"
+
+#: core/default-shortcodes/widgets.php:865
+#, fuzzy
+msgid "your email"
+msgstr "Errore nel campo email"
+
+#: core/default-shortcodes/widgets.php:866
+msgid "Subscribe"
+msgstr ""
+
+#: core/default-widgets/almost_all_categories.php:8
+#, fuzzy
+msgid "Get list of categories, without categories excluded from options panel."
+msgstr "Seleziona le Categorie che vuoi escludere dalla visualizzazione sul Blog."
+
+#: core/default-widgets/almost_all_categories.php:27
+msgid "Widget Title"
+msgstr "Titolo Widget"
+
+#: core/default-widgets/almost_all_categories.php:32
+msgid "Toggles the display of the current count of posts in each category"
+msgstr ""
+
+#: core/default-widgets/almost_all_categories.php:40
+msgid "Configure this widget on the Theme Option Admin, to exclude the categories from this list."
+msgstr "Configura questo widget su Theme Option per escludere le categorie dalla lista."
+
+#: core/default-widgets/google_map.php:9
+msgid "Box with google map."
+msgstr "Box con Google Map."
+
+#: core/default-widgets/last_tweets.php:8
+msgid "Retrieve the last tweets."
+msgstr "Recupera gli ultimi tweets"
+
+#: core/default-widgets/popular_posts.php:9
+msgid "Show a list of popular posts, in order of comments, with a preview thumb."
+msgstr "Mostra una lista degli articoli più popolari, in ordine di commenti, con un'immagine di anteprima."
+
+#: core/default-widgets/popular_posts.php:71
+#: core/default-widgets/recent_posts.php:69
+msgid "Read More"
+msgstr "|| Continua a leggere"
+
+#: core/default-widgets/popular_posts.php:85
+#: core/default-widgets/recent_posts.php:83
+msgid "Show thumbnail"
+msgstr "Mostra thumbnail"
+
+#: core/default-widgets/popular_posts.php:108
+#: core/default-widgets/recent_posts.php:106
+msgid "Show Post Date or Excerpt"
+msgstr ""
+
+#: core/default-widgets/popular_posts.php:111
+#: core/default-widgets/recent_posts.php:109
+msgid "Excerpt"
+msgstr ""
+
+#: core/default-widgets/recent_posts.php:9
+msgid "The latest posts, with a preview thumb."
+msgstr "Gli ultimi articoli, con una thumbnail di anteprima"
+
+#: core/default-widgets/recent_posts.php:77
+#: core/default-widgets/text_image.php:79
+msgid "Title"
+msgstr "Titolo"
+
+#: core/default-widgets/recent_posts.php:92
+msgid "Items"
+msgstr "Oggetti"
+
+#: core/default-widgets/recent_posts.php:99
+#, fuzzy
+msgid "More Text"
+msgstr "Testo More"
+
+#: core/default-widgets/text_image.php:8
+msgid "Arbitrary text or HTML, with a simple image above text."
+msgstr "Testo o HTML arbitrario, con una semplice immagine sopra il testo."
+
+#: core/default-widgets/text_image.php:13
+msgid "Text With Image"
+msgstr "Testo con immagine"
+
+#: core/default-widgets/text_image.php:85
+msgid "Image"
+msgstr "Immagine"
+
+#: core/default-widgets/text_image.php:92
+#, fuzzy
+msgid "Image Alignment"
+msgstr "Allineamento Immagine Principale"
+
+#: core/default-widgets/text_image.php:111
+msgid "Automatically add paragraphs"
+msgstr "Aggiungi paragrafi automaticamente"
+
+#: core/theme-options/functions-panel.php:6
+msgid "The element you have written is already exists. Please, add another name."
+msgstr "L'elemento appena scritto è già esistente. Per favore,aggiungi un altro nome."
+
+#: core/theme-options/functions-panel.php:7
+#, fuzzy
+msgid "Settings saved"
+msgstr "configurazione salvata"
+
+#: core/theme-options/functions-panel.php:8
+#, fuzzy
+msgid "Settings reset"
+msgstr "cancella configurazione"
+
+#: core/theme-options/functions-panel.php:9
+msgid "Element deleted correctly."
+msgstr "Elemento eliminato correttamente"
+
+#: core/theme-options/functions-panel.php:10
+msgid "Element updated correctly."
+msgstr "Elemento aggiornato correttamente."
+
+#: core/theme-options/functions-panel.php:11
+msgid "Database imported correctly."
+msgstr "Il Database è stato importato correttamente."
+
+#: core/theme-options/functions-panel.php:12
+#, fuzzy
+msgid "An error encoured during during import. Please try again."
+msgstr "Si è verificato un errore. Per favore riprova."
+
+#: core/theme-options/functions-panel.php:13
+msgid "The file you have insert doesn't valid."
+msgstr "Il file che hai inserito non è valido."
+
+#: core/theme-options/functions-panel.php:14
+msgid "I'm sorry, the import featured is disabled."
+msgstr "Mi dispiace, la funzionalità che permette l'importazione dei dati è disabilitata."
+
+#: core/theme-options/functions-panel.php:15
+#, fuzzy
+msgid "Sorting done correctly."
+msgstr "Email inviata correttamente"
+
+#: core/theme-options/functions-panel.php:454
+msgid "The contact form choosen is empty, so the form will not shown in the page."
+msgstr ""
+
+#: core/theme-options/panel.php:80
+#: core/theme-options/panel.php:1192
+msgid "Save changes"
+msgstr "Salva modifiche"
+
+#: core/theme-options/panel.php:118
+msgid "To easily use the options of the theme, you can use the menu below."
+msgstr "Per facilitarti l'ultilizzo delle opzioni del tema, puoi usare il menu sotto."
+
+#: core/theme-options/panel.php:162
+msgid "Copy to clipboard"
+msgstr "Copia in memoria"
+
+#: core/theme-options/panel.php:594
+#: core/theme-options/panel.php:788
+msgid "Upload Image"
+msgstr "Carica Immagine"
+
+#: core/theme-options/panel.php:655
+#: core/theme-options/panel.php:890
+#: core/theme-options/panel.php:998
+#: inc/functions-theme.php:753
+msgid "Delete"
+msgstr "Elimina"
+
+#: core/theme-options/panel.php:712
+#: inc/functions-theme.php:730
+msgid "Order"
+msgstr "Ordine"
+
+#: core/theme-options/panel.php:727
+#: core/theme-options/panel.php:728
+msgid "Slide Title"
+msgstr "Titolo Slide"
+
+#: core/theme-options/panel.php:734
+#: core/theme-options/panel.php:735
+msgid "Tooltip Content"
+msgstr "Contenuto Suggerimento"
+
+#: core/theme-options/panel.php:734
+msgid "HTML Tags allowed"
+msgstr "Tag HTML permessi"
+
+#: core/theme-options/panel.php:741
+#, fuzzy
+msgid "Image position"
+msgstr "Immagine"
+
+#: core/theme-options/panel.php:741
+#: core/theme-options/panel.php:753
+msgid "Values must be expressed in pixels"
+msgstr ""
+
+#: core/theme-options/panel.php:743
+#: core/theme-options/panel.php:755
+#, fuzzy
+msgid "Top"
+msgstr "A"
+
+#: core/theme-options/panel.php:744
+#: core/theme-options/panel.php:756
+#, fuzzy
+msgid "Left"
+msgstr "sinistra"
+
+#: core/theme-options/panel.php:745
+#: core/theme-options/panel.php:757
+#, fuzzy
+msgid "Right"
+msgstr "destra"
+
+#: core/theme-options/panel.php:746
+#: core/theme-options/panel.php:758
+msgid "Bottom"
+msgstr ""
+
+#: core/theme-options/panel.php:753
+#, fuzzy
+msgid "Text position"
+msgstr "Elimina Opzione"
+
+#: core/theme-options/panel.php:785
+#: core/theme-options/panel.php:787
+msgid "Image URL"
+msgstr "URL Immagine"
+
+#: core/theme-options/panel.php:798
+#: core/theme-options/panel.php:801
+#, fuzzy
+msgid "URL Video"
+msgstr "Codice del Video"
+
+#: core/theme-options/panel.php:800
+msgid "url by Youtube or Vimeo"
+msgstr "url di Youtube o Vimeo"
+
+#: core/theme-options/panel.php:812
+msgid "Slide Link"
+msgstr "Link Slide"
+
+#: core/theme-options/panel.php:814
+msgid "page"
+msgstr "pagina"
+
+#: core/theme-options/panel.php:815
+msgid "category"
+msgstr "categoria"
+
+#: core/theme-options/panel.php:817
+msgid "url"
+msgstr "url"
+
+#: core/theme-options/panel.php:818
+msgid "none"
+msgstr "nessuno"
+
+#: core/theme-options/panel.php:855
+msgid "Choose a page..."
+msgstr "Scegli una pagina..."
+
+#: core/theme-options/panel.php:878
+#: core/theme-options/panel.php:879
+#, fuzzy
+msgid "Extra Tooltip"
+msgstr "Suggerimento"
+
+#: core/theme-options/panel.php:878
+msgid "The tooltip that you can add inside the image. Leave empty the content to not use"
+msgstr ""
+
+#: core/theme-options/panel.php:905
+#, fuzzy
+msgid "Add Slide"
+msgstr "Aggiungi/Modifica Slide"
+
+#: core/theme-options/panel.php:906
+msgid "Add/Edit Slide"
+msgstr "Aggiungi/Modifica Slide"
+
+#: core/theme-options/panel.php:907
+#: inc/functions-theme.php:766
+#, fuzzy
+msgid "Delete all slides"
+msgstr "Seleziona il nome dello Slider."
+
+#: core/theme-options/panel.php:967
+msgid "Field Title"
+msgstr "Titolo Campo"
+
+#: core/theme-options/panel.php:968
+#: core/theme-options/include/contact_add.php:148
+msgid "Data Name"
+msgstr "Nome Data"
+
+#: core/theme-options/panel.php:969
+#: core/theme-options/include/contact_add.php:242
+msgid "Required"
+msgstr "Richiesto"
+
+#: core/theme-options/panel.php:970
+msgid "Type"
+msgstr "Tipo"
+
+#: core/theme-options/panel.php:986
+#: core/theme-options/panel.php:1141
+msgid "Move up"
+msgstr "Sposta sopra"
+
+#: core/theme-options/panel.php:992
+#: core/theme-options/panel.php:1147
+msgid "Move down"
+msgstr "Sposta sotto"
+
+#: core/theme-options/panel.php:1004
+msgid "No fields created yet."
+msgstr "Ancora nessun campo creato."
+
+#: core/theme-options/panel.php:1111
+msgid "Use this table to compose your home page."
+msgstr ""
+
+#: core/theme-options/panel.php:1117
+msgid "Element"
+msgstr ""
+
+#: core/theme-options/panel.php:1118
+msgid "Visibile"
+msgstr ""
+
+#: core/theme-options/panel.php:1157
+msgid "No elements available."
+msgstr ""
+
+#: core/theme-options/panel.php:1197
+msgid "If you continue with this action, you will reset all options are in this page."
+msgstr "Se continui con questa azione, resetterai tutte le opzioni di questa pagina."
+
+#: core/theme-options/panel.php:1198
+#: core/theme-options/include/contact_add.php:294
+msgid "Reset"
+msgstr "Cancella"
+
+#: core/theme-options/panel.php:1198
+msgid "Are you sure of it?"
+msgstr "Sei sicuro di voler continuare?"
+
+#: core/theme-options/settings-panel.php:3
+#, fuzzy
+msgid "Theme Options"
+msgstr "Elimina Opzione"
+
+#: core/theme-options/settings-panel.php:8
+msgid "Panel Import"
+msgstr "Pannello di import"
+
+#: core/theme-options/settings-panel.php:20
+msgid "Choose a category"
+msgstr "Scegli una categoria"
+
+#: core/theme-options/include/contact_add.php:74
+msgid "Add New Field"
+msgstr "Aggiungi Nuovo Campo"
+
+#: core/theme-options/include/contact_add.php:75
+msgid "Add new field for your contact module."
+msgstr "Aggiungi un nuovo campo al tuo modulo contatti."
+
+#: core/theme-options/include/contact_add.php:83
+msgid "Edit Field"
+msgstr "Modifica Campo"
+
+#: core/theme-options/include/contact_add.php:84
+msgid "Edit the attributes of field."
+msgstr "Modifica l'attributo del campo."
+
+#: core/theme-options/include/contact_add.php:138
+msgid "Title Field"
+msgstr "Titolo Campo"
+
+#: core/theme-options/include/contact_add.php:142
+msgid "Insert the title of field."
+msgstr "Inserisci il titolo del campo."
+
+#: core/theme-options/include/contact_add.php:152
+#, fuzzy
+msgid "The identification name of this field, that you can insert into body email configuration."
+msgstr "Opzionale: il nome di identificazione di questo campo che puoi inserire dentro il corpo della mail."
+
+#: core/theme-options/include/contact_add.php:158
+msgid "Description"
+msgstr "Descrizione"
+
+#: core/theme-options/include/contact_add.php:162
+msgid "Small description, showed near name title."
+msgstr "Piccola descrizione che sarà mostrata accanto al titolo del nome."
+
+#: core/theme-options/include/contact_add.php:168
+msgid "Type field"
+msgstr "Tipo di Campo"
+
+#: core/theme-options/include/contact_add.php:174
+#, fuzzy
+msgid "Select the type of this field."
+msgstr "Seleziona il tipo di Footer che desideri utilizzare per questo tema"
+
+#: core/theme-options/include/contact_add.php:180
+msgid "Add options"
+msgstr "Aggiungi Opzioni"
+
+#: core/theme-options/include/contact_add.php:183
+msgid "Add option"
+msgstr "Aggiungi opzione"
+
+#: core/theme-options/include/contact_add.php:193
+#: core/theme-options/include/contact_add.php:200
+msgid "Selected"
+msgstr "Selezionato"
+
+#: core/theme-options/include/contact_add.php:195
+#: core/theme-options/include/contact_add.php:202
+msgid "Delete option"
+msgstr "Elimina Opzione"
+
+#: core/theme-options/include/contact_add.php:210
+msgid "Checked"
+msgstr "Selezionato"
+
+#: core/theme-options/include/contact_add.php:215
+msgid "Select this if you want this field already checked."
+msgstr "Seleziona se vuoi che questo campo venga mostrato già checkato."
+
+#: core/theme-options/include/contact_add.php:222
+msgid "Label for Checkbox"
+msgstr "Label per Checkbox"
+
+#: core/theme-options/include/contact_add.php:226
+msgid "Insert the label message for checkbox."
+msgstr "Inserisci un'etichetta per il checkbox."
+
+#: core/theme-options/include/contact_add.php:232
+msgid "Message Error"
+msgstr "Errore"
+
+#: core/theme-options/include/contact_add.php:236
+msgid "Insert the error message for validation."
+msgstr "Inserisci il messaggio di errore da mostrare per la validazione."
+
+#: core/theme-options/include/contact_add.php:247
+msgid "Select this if it must be required."
+msgstr "Seleziona per rendere questo campo obbligatorio."
+
+#: core/theme-options/include/contact_add.php:259
+msgid "Select this if it must be a valid email."
+msgstr "Seleziona per rendere questo  campo un valido indirizzo email."
+
+#: core/theme-options/include/contact_add.php:266
+msgid "Reply To"
+msgstr "Rispondi a"
+
+#: core/theme-options/include/contact_add.php:271
+msgid "Select this if it's the email where you can reply."
+msgstr "Seleziona se questa è un'indirizzo email alla quale poter rispondere."
+
+#: core/theme-options/include/contact_add.php:278
+msgid "Class"
+msgstr "Class"
+
+#: core/theme-options/include/contact_add.php:282
+msgid "Insert an additional class for more personalization. (you can insert more class, separeted by space)"
+msgstr "Inserisci delle classi addizionali per una migliore personalizzazione (puoi inserire più classi, separate da uno spazio)."
+
+#: core/theme-options/include/contact_add.php:293
+#: core/theme-options/include/panel-import.php:20
+msgid "Save"
+msgstr "Salva"
+
+#: core/theme-options/include/panel-import.php:5
+#, fuzzy
+msgid "Import configuration"
+msgstr "Configurazione Pannello"
+
+#: core/theme-options/include/panel-import.php:15
+#, fuzzy
+msgid "Save configuration"
+msgstr "Configurazione e-Commerce"
+
+#: core/theme-options/include/panel-import.php:23
+msgid "Save the actual configuration of theme options. Put the name and you be able to see this configuration on the list below."
+msgstr ""
+
+#: core/theme-options/include/panel-import.php:24
+msgid "In future, you can select it to restore the options just saved."
+msgstr ""
+
+#: core/theme-options/include/panel-import.php:36
+#, fuzzy
+msgid "Apply Configuration"
+msgstr "Configurazione Generale"
+
+#: core/theme-options/include/panel-import.php:45
+#, fuzzy
+msgid "Apply"
+msgstr "Auto-play"
+
+#: core/theme-options/include/panel-import.php:49
+msgid "Choose one of these settings saved before, to apply them on the theme."
+msgstr ""
+
+#: core/theme-options/include/panel-import.php:63
+#, fuzzy
+msgid "List of all configurations"
+msgstr "Configurazione e-Commerce"
+
+#: core/theme-options/include/panel-import.php:71
+#, fuzzy
+msgid "All configurations saved"
+msgstr "Configurazione Generale"
+
+#: core/theme-options/include/panel-import.php:83
+#, fuzzy
+msgid "Delete Configuration"
+msgstr "Configurazione e-Commerce"
+
+#: core/theme-options/include/panel-import.php:92
+#, fuzzy
+msgid "No configurations created!"
+msgstr "Configurazione e-Commerce"
+
+#: core/theme-options/include/panel-import.php:99
+msgid "The list of all configurations saved. You can apply one of these theme options saved and restore them."
+msgstr ""
+
+#: core/theme-options/include/panel-import.php:111
+msgid "Export/Import"
+msgstr ""
+
+#: core/theme-options/include/panel-import.php:121
+#, fuzzy
+msgid "Import Theme Options"
+msgstr "Elimina Opzione"
+
+#: core/theme-options/include/panel-import.php:124
+#, fuzzy
+msgid "Import"
+msgstr "Pannello di import"
+
+#: core/theme-options/include/panel-import.php:128
+msgid "Put here the string for import all theme options and configure the theme in one step."
+msgstr ""
+
+#: core/theme-options/include/panel-import.php:139
+#, fuzzy
+msgid "Export Theme Options"
+msgstr "Elimina Opzione"
+
+#: core/theme-options/include/panel-import.php:141
+msgid "This is your theme options in one code string, that you can put in the \"Import\" textarea and restore the entire panel configuration."
+msgstr ""
+
+#: core/theme-options/install/install.php:86
+#: core/theme-options/install/install.php:92
+#: core/theme-options/install/install.php:98
+msgid "Tools -> Import"
+msgstr ""
+
+#: core/theme-options/install/install.php:121
+#, php-format
+msgid "Truncated %s table"
+msgstr "Elimina la tabella %s"
+
+#: core/theme-options/install/install.php:138
+#, php-format
+msgid "Insert new values into %s table"
+msgstr "Inserisci nuovo valore dentro la tabella %s"
+
+#: core/theme-options/install/install.php:140
+#, php-format
+msgid "Error during insert new values (IDs: %s), in %s table"
+msgstr "Errore durante l'inserimento di un nuovo valore (ID: %s), nella tabella %s"
+
+#: core/theme-options/install/install.php:159
+#, php-format
+msgid "Deleted value from %s table"
+msgstr "Valore eliminato dalla tabella %s"
+
+#: core/theme-options/install/install.php:161
+#, php-format
+msgid "Error during deleting from %s table (SQL: %s)"
+msgstr "Errore durante l'eliminazione della tabella %s (SQL: %s)"
+
+#: core/theme-options/install/install.php:179
+#, php-format
+msgid "Insert new values, into %s table"
+msgstr "Inserisci nuovo valore dentro la tabella %s"
+
+#: core/theme-options/install/install.php:181
+#, php-format
+msgid "Error during insert new values (IDs: %s), into %s table"
+msgstr "Errore durante l'inserimento di un nuovo valore (ID: %s), nella tabella %s"
+
+#: core/theme-options/install/install_panel.php:10
+msgid "Import/Export Theme Data"
+msgstr "Importa/Esporta Dati Tema"
+
+#: core/theme-options/install/install_panel.php:21
+msgid "Import Theme Data"
+msgstr "Importa Dati Tema"
+
+#: core/theme-options/install/install_panel.php:26
+msgid "Insert here the file that you have exported by another installation."
+msgstr "Inserisci qui il file che hai esportato da un'altra installazione."
+
+#: core/theme-options/install/install_panel.php:28
+msgid "Make a backup of all installation before import, because it will remove all posts and options of theme, so that you can restore if there are problems after import."
+msgstr "Fai un backup di tutta l'installazione prima di importare, perchè eliminerà tutti i post e le opzioni del tema, così da poter ripristinare l'installazione in caso di problemi durante l'importazione."
+
+#: core/theme-options/install/install_panel.php:39
+msgid "Click here to download a file with all export, that you will use to import to another installation."
+msgstr "Clicca qui per scaricare unfile con tutta l'installazione, che potrai utilizzare per impostarla su un'altra installazione, trmaite questo stesso pannello."
+
+#: core/theme-options/options/panelimport-options.php:7
+#, fuzzy
+msgid "Panel import configuration"
+msgstr "Configurazione Pannello"
+
+#: core/tinymce/lightbox.php:52
+#, fuzzy
+msgid "Choose shortcode"
+msgstr "Scegli uno Slider"
+
+#: core/tinymce/register-shortcodes.php:4
+#: core/tinymce/tinymce.php:11
+#, fuzzy
+msgid "Column 1/4"
+msgstr "3 Colonne"
+
+#: core/tinymce/register-shortcodes.php:8
+#: core/tinymce/tinymce.php:15
+msgid "Column 1/4 last"
+msgstr ""
+
+#: core/tinymce/register-shortcodes.php:12
+#: core/tinymce/tinymce.php:19
+#, fuzzy
+msgid "Column 1/3"
+msgstr "3 Colonne"
+
+#: core/tinymce/register-shortcodes.php:16
+#: core/tinymce/tinymce.php:23
+msgid "Column 1/3 last"
+msgstr ""
+
+#: core/tinymce/register-shortcodes.php:20
+#: core/tinymce/tinymce.php:27
+#, fuzzy
+msgid "Column 2/3"
+msgstr "3 Colonne"
+
+#: core/tinymce/register-shortcodes.php:24
+#: core/tinymce/tinymce.php:31
+msgid "Column 2/3 last"
+msgstr ""
+
+#: core/tinymce/register-shortcodes.php:28
+#: core/tinymce/tinymce.php:35
+#, fuzzy
+msgid "Column 2/4"
+msgstr "3 Colonne"
+
+#: core/tinymce/register-shortcodes.php:32
+#: core/tinymce/tinymce.php:39
+msgid "Column 2/4 last"
+msgstr ""
+
+#: core/tinymce/register-shortcodes.php:36
+msgid "Recent Posts"
+msgstr ""
+
+#: core/tinymce/register-shortcodes.php:43
+msgid "The number of items to display"
+msgstr ""
+
+#: core/tinymce/register-shortcodes.php:53
+#, fuzzy
+msgid "Show Thumb?"
+msgstr "Mostra thumbnail"
+
+#: core/tinymce/register-shortcodes.php:63
+#, fuzzy
+msgid "Show Date?"
+msgstr "Mostra data"
+
+#: core/tinymce/tinymce.php:112
+#, fuzzy
+msgid "Add shortcodes"
+msgstr "Aggiungi Opzioni"
+
+#: core/tinymce/tinymce.php:112
+msgid "Add Styles with Shortcodes"
+msgstr ""
+
+#: core/tinymce/tinymce.php:236
+#, fuzzy
+msgid "Insert shortcode"
+msgstr "Inserisci il nome correttamente"
+
+#: inc/colors.php:17
+#: inc/config-theme.php:35
+#: inc/fonts.php:32
+msgid "General"
+msgstr "Generale"
+
+#: inc/colors.php:24
+#, fuzzy
+msgid "Titles color"
+msgstr "Colore Testo"
+
+#: inc/colors.php:25
+#: inc/colors.php:43
+#, fuzzy
+msgid "Select the text color of all titles."
+msgstr "Seleziona il colore da assegnare a tutti i link del tema."
+
+#: inc/colors.php:33
+#, fuzzy
+msgid "Titles color highlight"
+msgstr "Colore Evidenziazione"
+
+#: inc/colors.php:34
+#, fuzzy
+msgid "Select the highlight color of all titles."
+msgstr "Seleziona il colore da assegnare a tutti i link del tema."
+
+#: inc/colors.php:42
+#: inc/colors.php:260
+msgid "Text color"
+msgstr "Colore Testo"
+
+#: inc/colors.php:50
+#: inc/colors.php:268
+msgid "Links color"
+msgstr "Colore Link"
+
+#: inc/colors.php:51
+#, fuzzy
+msgid "Select the general color of all links."
+msgstr "Seleziona il colore da assegnare a tutti i link del tema."
+
+#: inc/colors.php:58
+#: inc/colors.php:276
+#, fuzzy
+msgid "Links color hover"
+msgstr "Colore Link"
+
+#: inc/colors.php:59
+#, fuzzy
+msgid "Select the general color of all links, in hover state."
+msgstr "Seleziona il colore da assegnare a tutti i link all'hover."
+
+#: inc/colors.php:66
+#, fuzzy
+msgid "Slogan title"
+msgstr "Slogan della Pagina"
+
+#: inc/colors.php:67
+#, fuzzy
+msgid "Select the text color of the slogan title."
+msgstr "Seleziona il colore da assegnare al testo mostrato sul footer."
+
+#: inc/colors.php:74
+#, fuzzy
+msgid "Slogan subtitle"
+msgstr "Slogan della Pagina"
+
+#: inc/colors.php:75
+#, fuzzy
+msgid "Select the text color of the slogan subtitle."
+msgstr "Seleziona il colore da assegnare al testo mostrato sul footer."
+
+#: inc/colors.php:82
+#, fuzzy
+msgid "Slogan highlight"
+msgstr "Colore Evidenziazione"
+
+#: inc/colors.php:83
+#, fuzzy
+msgid "Select the hightlight color of the slogan."
+msgstr "Seleziona il colore principale dei titoli."
+
+#: inc/colors.php:91
+#, fuzzy
+msgid "Header"
+msgstr "Heart"
+
+#: inc/colors.php:98
+#, fuzzy
+msgid "Background topbar"
+msgstr "Sfondo Footer"
+
+#: inc/colors.php:99
+#, fuzzy
+msgid "Select the background color of the topbar."
+msgstr "Seleziona il colore di sfondo da assegnare al footer."
+
+#: inc/colors.php:107
+#, fuzzy
+msgid "Topbar links"
+msgstr "Colore Link"
+
+#: inc/colors.php:108
+#, fuzzy
+msgid "Select the color of the links on topbar."
+msgstr "Seleziona il colore da assegnare a tutti i link all'hover."
+
+#: inc/colors.php:116
+#, fuzzy
+msgid "Topbar links hover"
+msgstr "Colore Link Hover"
+
+#: inc/colors.php:117
+#, fuzzy
+msgid "Select the color of the links on topbar in state hover."
+msgstr "Seleziona il colore da assegnare a tutti i link all'hover."
+
+#: inc/colors.php:125
+#, fuzzy
+msgid "Background slider"
+msgstr "Sfondo Footer"
+
+#: inc/colors.php:126
+#, fuzzy
+msgid "Select the background color of the sliders."
+msgstr "Seleziona il colore di sfondo da assegnare al footer."
+
+#: inc/colors.php:135
+#, fuzzy
+msgid "Twitter slider"
+msgstr "Testo sotto lo Slider"
+
+#: inc/colors.php:142
+#: inc/colors.php:184
+#: inc/colors.php:252
+#, fuzzy
+msgid "Background color"
+msgstr "Sfondo Footer"
+
+#: inc/colors.php:143
+#, fuzzy
+msgid "The background of twitter section."
+msgstr "Sfondo Sezione Copyright"
+
+#: inc/colors.php:150
+#: inc/colors.php:200
+#, fuzzy
+msgid "Color text"
+msgstr "Colore Testo"
+
+#: inc/colors.php:151
+#: inc/colors.php:201
+#, fuzzy
+msgid "The color of text"
+msgstr "Seleziona il colore generale per il testo."
+
+#: inc/colors.php:158
+#: inc/colors.php:208
+#, fuzzy
+msgid "Color links"
+msgstr "Colore Link"
+
+#: inc/colors.php:159
+#, fuzzy
+msgid "The color of all links."
+msgstr "Seleziona il colore da assegnare a tutti i link del tema."
+
+#: inc/colors.php:167
+#: inc/colors.php:217
+#, fuzzy
+msgid "Color links hover"
+msgstr "Colore Link Hover"
+
+#: inc/colors.php:168
+#, fuzzy
+msgid "The color of all links in hover state."
+msgstr "Seleziona il colore da assegnare a tutti i link all'hover."
+
+#: inc/colors.php:177
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/colors.php:185
+#, fuzzy
+msgid "The background of all section."
+msgstr "Sfondo Sezione Copyright"
+
+#: inc/colors.php:192
+#, fuzzy
+msgid "Color titles"
+msgstr "Colore Link"
+
+#: inc/colors.php:193
+#, fuzzy
+msgid "The color of all titles of the footer."
+msgstr "Seleziona il colore utilizzato per i bordi divisori utilizzati sul footer."
+
+#: inc/colors.php:209
+#, fuzzy
+msgid "The color of all links, of the footer."
+msgstr "Seleziona il colore da assegnare a tutti i link all'hover."
+
+#: inc/colors.php:218
+#, fuzzy
+msgid "The color of all links in hover state, of the footer."
+msgstr "Seleziona il colore da assegnare allo stato hover dei link presenti nella sezione footer."
+
+#: inc/colors.php:226
+#, fuzzy
+msgid "Color links menues"
+msgstr "Colore Link"
+
+#: inc/colors.php:227
+#, fuzzy
+msgid "The color of links of menues, of the footer."
+msgstr "Seleziona il colore da assegnare a tutti i link all'hover."
+
+#: inc/colors.php:235
+#, fuzzy
+msgid "Color links menues hover"
+msgstr "Colore Link Hover"
+
+#: inc/colors.php:236
+#, fuzzy
+msgid "The color of links of menues in hover state, of the footer."
+msgstr "Seleziona il colore da assegnare allo stato hover dei link presenti nella sezione footer."
+
+#: inc/colors.php:245
+msgid "Copyright"
+msgstr ""
+
+#: inc/colors.php:253
+#, fuzzy
+msgid "Select the background color of the copyright section."
+msgstr "Seleziona il colore di sfondo da assegnare alla sezione Copyright che si trova subito sotto il footer."
+
+#: inc/colors.php:261
+#, fuzzy
+msgid "Select the text color of the copyright section."
+msgstr "Seleziona il colore da assegnare al testo mostrato sul footer."
+
+#: inc/colors.php:269
+#, fuzzy
+msgid "Select the color of the links on the copyright section."
+msgstr "Seleziona il colore da assegnare a tutti i link all'hover."
+
+#: inc/colors.php:277
+#, fuzzy
+msgid "Select the color of the links, in state hover, on the copyright section."
+msgstr "Seleziona il colore da assegnare a tutti i link all'hover."
+
+#: inc/config-theme.php:36
+msgid "Colors"
+msgstr "Colori"
+
+#: inc/config-theme.php:37
+msgid "Typography"
+msgstr "Tipografia"
+
+#: inc/config-theme.php:38
+#, fuzzy
+msgid "Home"
+msgstr "Home Page"
+
+#: inc/config-theme.php:39
+msgid "Sliders"
+msgstr "Sliders"
+
+#: inc/config-theme.php:40
+msgid "Flash Slider"
+msgstr "Slider Flash"
+
+#: inc/config-theme.php:41
+#, fuzzy
+msgid "Accordions"
+msgstr "Slider Accordion"
+
+#: inc/config-theme.php:42
+msgid "Sidebars"
+msgstr "Sidebars"
+
+#: inc/config-theme.php:43
+#, fuzzy
+msgid "Contact Forms"
+msgstr "Contatti"
+
+#: inc/config-theme.php:47
+#, fuzzy
+msgid "None"
+msgstr "nessuno"
+
+#: inc/config-theme.php:48
+#, fuzzy
+msgid "Fixed Image"
+msgstr "Immagine"
+
+#: inc/config-theme.php:49
+msgid "Elastic"
+msgstr ""
+
+#: inc/config-theme.php:50
+#, fuzzy
+msgid "Elegant"
+msgstr "Slogan"
+
+#: inc/config-theme.php:51
+#, fuzzy
+msgid "Flash"
+msgstr "Faq"
+
+#: inc/config-theme.php:52
+msgid "Cycle"
+msgstr ""
+
+#: inc/config-theme.php:53
+#, fuzzy
+msgid "With Thumbnails"
+msgstr "Mostra thumbnail"
+
+#: inc/config-theme.php:54
+#, fuzzy
+msgid "Nivo"
+msgstr "No"
+
+#: inc/config-theme.php:58
+msgid "3 Columns"
+msgstr "3 Colonne"
+
+#: inc/config-theme.php:59
+msgid "With Slider"
+msgstr "Con Slider"
+
+#: inc/config-theme.php:60
+#, fuzzy
+msgid "Big Image"
+msgstr "Immagine"
+
+#: inc/config-theme.php:61
+#, fuzzy
+msgid "Full Description"
+msgstr "Descrizione"
+
+#: inc/config-theme.php:62
+msgid "Filterable"
+msgstr ""
+
+#: inc/fonts.php:39
+#, fuzzy
+msgid "General text"
+msgstr "Generale"
+
+#: inc/fonts.php:40
+msgid "Size of the general text paragraphs."
+msgstr ""
+
+#: inc/fonts.php:47
+msgid "H1 headline"
+msgstr ""
+
+#: inc/fonts.php:48
+msgid "Size of the H1 elements."
+msgstr ""
+
+#: inc/fonts.php:55
+msgid "H2 headline"
+msgstr ""
+
+#: inc/fonts.php:56
+msgid "Size of the H2 elements."
+msgstr ""
+
+#: inc/fonts.php:63
+msgid "H3 headline"
+msgstr ""
+
+#: inc/fonts.php:64
+#: inc/fonts.php:72
+msgid "Size of the H4 elements."
+msgstr ""
+
+#: inc/fonts.php:71
+msgid "H4 headline"
+msgstr ""
+
+#: inc/fonts.php:79
+msgid "H5 headline"
+msgstr ""
+
+#: inc/fonts.php:80
+msgid "Size of the H5 elements."
+msgstr ""
+
+#: inc/fonts.php:87
+msgid "H6 headline"
+msgstr ""
+
+#: inc/fonts.php:88
+msgid "Size of the H6 elements."
+msgstr ""
+
+#: inc/functions-theme.php:65
+#: inc/functions-theme.php:71
+#: inc/functions-theme.php:77
+#: inc/functions-theme.php:83
+#: inc/functions-theme.php:89
+msgid "Design"
+msgstr ""
+
+#: inc/functions-theme.php:101
+msgid "Navigation"
+msgstr "Navigazione"
+
+#: inc/functions-theme.php:102
+msgid "Topbar"
+msgstr ""
+
+#: inc/functions-theme.php:124
+msgid "This sidebar will be shown in all pages with empty sidebar or without any sidebat set."
+msgstr ""
+
+#: inc/functions-theme.php:125
+msgid "The row below home content."
+msgstr ""
+
+#: inc/functions-theme.php:126
+msgid "The sidebar showed on page with Blog template"
+msgstr ""
+
+#: inc/functions-theme.php:127
+msgid "The sidebar used in Gallery single posts."
+msgstr ""
+
+#: inc/functions-theme.php:128
+msgid "The footer widgets."
+msgstr ""
+
+#: inc/functions-theme.php:440
+#, fuzzy
+msgid "Page"
+msgstr "pagina"
+
+#: inc/functions-theme.php:676
+#: inc/functions-theme.php:679
+#, fuzzy
+msgid "Layout Slide"
+msgstr "Pagina Blog"
+
+#: inc/functions-theme.php:678
+msgid "choose the position of all elements"
+msgstr ""
+
+#: inc/functions-theme.php:680
+#, fuzzy
+msgid "Text Left & Image Right"
+msgstr "Testo con immagine"
+
+#: inc/functions-theme.php:681
+#, fuzzy
+msgid "Text Right & Image Left"
+msgstr "Testo con immagine"
+
+#: inc/functions-theme.php:682
+#, fuzzy
+msgid "Text and Image Center"
+msgstr "Testo con immagine"
+
+#: inc/functions-theme.php:742
+#: inc/functions-theme.php:743
+#: inc/functions-theme.php:748
+#, fuzzy
+msgid "Subtitle"
+msgstr "Sottotitolo slide"
+
+#: inc/functions-theme.php:747
+#, fuzzy
+msgid "Content"
+msgstr "Contenuto Extra"
+
+#: inc/functions-theme.php:749
+msgid "Add paragraph automatically"
+msgstr ""
+
+#: inc/functions-theme.php:764
+#, fuzzy
+msgid "Add Section"
+msgstr "Aggiungi opzione"
+
+#: inc/functions-theme.php:765
+#, fuzzy
+msgid "Add/Edit Section"
+msgstr "Aggiungi/Modifica Slide"
+
+#: inc/functions-theme.php:779
+msgid "Reached the maximum limit of ten sections."
+msgstr ""
+
+#: inc/functions-theme.php:863
+msgid "Click here to update the color selected above"
+msgstr ""
+
+#: inc/infinity-portfolio.php:14
+#: inc/infinity-portfolio.php:54
+#: inc/metaboxes.php:73
+#: inc/shortcodes.php:578
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: inc/infinity-portfolio.php:21
+#: inc/infinity-portfolio.php:161
+#: inc/infinity-portfolio.php:311
+msgid "View Project"
+msgstr "Mostra Progetto"
+
+#: inc/infinity-portfolio.php:23
+msgid "Work"
+msgstr "Lavori"
+
+#: inc/infinity-portfolio.php:24
+msgid "Works"
+msgstr "Lavori"
+
+#: inc/infinity-portfolio.php:25
+#, fuzzy
+msgid "Category project"
+msgstr "Categorie Progetto"
+
+#: inc/infinity-portfolio.php:26
+#, fuzzy
+msgid "category-project"
+msgstr "Categorie Progetto"
+
+#: inc/infinity-portfolio.php:38
+msgid "The sidebar used in Full description layout and in single portfolio template of \""
+msgstr ""
+
+#: inc/infinity-portfolio.php:51
+#, fuzzy
+msgid "Create Portfolio"
+msgstr "Attiva Portfolio"
+
+#: inc/infinity-portfolio.php:54
+#, fuzzy
+msgid "Portfolios"
+msgstr "Portfolio"
+
+#: inc/infinity-portfolio.php:54
+#, fuzzy
+msgid "New Portfolio"
+msgstr "Portfolio"
+
+#: inc/infinity-portfolio.php:122
+#: inc/post-types.php:100
+msgid "Category"
+msgstr "Categorie"
+
+#: inc/infinity-portfolio.php:139
+msgid "Set here the features of this portfolio. On right side, you can also choose an icon to show in the admin menu, by upload it in \"Featured Image\""
+msgstr ""
+
+#: inc/infinity-portfolio.php:143
+#, fuzzy
+msgid "Layout"
+msgstr "Pagina Blog"
+
+#: inc/infinity-portfolio.php:146
+msgid "Set the layout for this portfolio, that will be used in the page with the portfolio template."
+msgstr ""
+
+#: inc/infinity-portfolio.php:153
+msgid "The number of items to show in this portfolio, when selected in the page. Leave empty to show all items."
+msgstr ""
+
+#: inc/infinity-portfolio.php:160
+msgid "The text of button to read the entire post."
+msgstr ""
+
+#: inc/infinity-portfolio.php:168
+#, fuzzy
+msgid "Rewrite"
+msgstr "Registrati"
+
+#: inc/infinity-portfolio.php:170
+#, php-format
+msgid "Set the rewrite role for the posts of this portfolio (es. %s/). Leave empty to generate it automatically."
+msgstr ""
+
+#: inc/infinity-portfolio.php:175
+msgid "Label Singular"
+msgstr ""
+
+#: inc/infinity-portfolio.php:177
+#: inc/infinity-portfolio.php:183
+msgid "The label that will be shown when you create the post of this portfolio."
+msgstr ""
+
+#: inc/infinity-portfolio.php:182
+msgid "Label Plural"
+msgstr ""
+
+#: inc/infinity-portfolio.php:192
+msgid "Taxonomy"
+msgstr ""
+
+#: inc/infinity-portfolio.php:193
+msgid "Set the taxonomy for this portfolio. Leave empty, if you don't want a taxonomy."
+msgstr ""
+
+#: inc/infinity-portfolio.php:199
+msgid "Taxonomy rewrite"
+msgstr ""
+
+#: inc/infinity-portfolio.php:200
+msgid "Set the rewrite role for the posts of this portfolio. Leave empty to generate it automatically."
+msgstr ""
+
+#: inc/infinity-portfolio.php:205
+#, fuzzy
+msgid "Portfolio options"
+msgstr "Portfolio"
+
+#: inc/infinity-portfolio.php:223
+#, fuzzy
+msgid "Layout Type"
+msgstr "Pagina Blog"
+
+#: inc/infinity-portfolio.php:225
+msgid "Labels"
+msgstr ""
+
+#: inc/infinity-portfolio.php:226
+#, fuzzy
+msgid "Tax"
+msgstr "Fax"
+
+#: inc/infinity-portfolio.php:259
+msgid "Portfolio Title"
+msgstr "Titolo Portfolio"
+
+#: inc/metaboxes.php:14
+#, fuzzy
+msgid "Slogan Subtitle"
+msgstr "Slogan della Pagina"
+
+#: inc/metaboxes.php:16
+#, fuzzy
+msgid "Insert the subtitle of slogan showed below the main title of this slogan."
+msgstr "Inserisci lo sloganda mostrare all'inizio di questa pagina/post."
+
+#: inc/metaboxes.php:27
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: inc/metaboxes.php:39
+#, fuzzy
+msgid "Accordion slider"
+msgstr "Slider Accordion"
+
+#: inc/metaboxes.php:41
+msgid "No accordion"
+msgstr ""
+
+#: inc/metaboxes.php:48
+#, fuzzy
+msgid "Select a slider for this page"
+msgstr "Seleziona la sidebar della pagina"
+
+#: inc/metaboxes.php:61
+msgid "Show twitter above the footer."
+msgstr ""
+
+#: inc/metaboxes.php:74
+msgid "NB: valid only for the portfolio template"
+msgstr ""
+
+#: inc/metaboxes.php:88
+#, fuzzy
+msgid "Show Map"
+msgstr "Mostra data"
+
+#: inc/metaboxes.php:101
+#, fuzzy
+msgid "Link src"
+msgstr "Colore Link"
+
+#: inc/metaboxes.php:104
+msgid "The link of the map, get from Google Maps."
+msgstr ""
+
+#: inc/metaboxes.php:109
+msgid "Open the map at page loaded."
+msgstr ""
+
+#: inc/metaboxes.php:117
+#, fuzzy
+msgid "Say if you want the map opened when the page is loaded."
+msgstr "Indica se desideri mostrare lo Slider in Home Page"
+
+#: inc/metaboxes.php:121
+msgid "Tab with map"
+msgstr ""
+
+#: inc/metaboxes.php:131
+msgid "URL"
+msgstr ""
+
+#: inc/metaboxes.php:142
+#, fuzzy
+msgid "Video URL:"
+msgstr "Video URL thumb"
+
+#: inc/metaboxes.php:144
+msgid "Here, you can add an Youtube or Vimeo url video, to show on thumb of this portfolio element."
+msgstr ""
+
+#: inc/metaboxes.php:149
+#, fuzzy
+msgid "Video URL"
+msgstr "Video URL thumb"
+
+#: inc/metaboxes.php:155
+msgid "Skills Label"
+msgstr ""
+
+#: inc/metaboxes.php:157
+#, fuzzy
+msgid "Insert the label used in skills field"
+msgstr "Inserisci il titolo del campo."
+
+#: inc/metaboxes.php:164
+#, fuzzy
+msgid "Insert the skills"
+msgstr "Inserisci il titolo del campo."
+
+#: inc/metaboxes.php:169
+#, fuzzy
+msgid "Date label"
+msgstr "Nome Data"
+
+#: inc/metaboxes.php:171
+#, fuzzy
+msgid "Insert the label used in date field"
+msgstr "Inserisci il titolo del campo."
+
+#: inc/metaboxes.php:176
+msgid "Skills and Date"
+msgstr ""
+
+#: inc/metaboxes.php:184
+#, fuzzy
+msgid "Insert the subtitle."
+msgstr "Inserisci il titolo del campo."
+
+#: inc/metaboxes.php:189
+#, fuzzy
+msgid "Subtitle Slide"
+msgstr "Sottotitolo slide"
+
+#: inc/post-types.php:46
+#: inc/post-types.php:49
+#: inc/shortcodes.php:579
+msgid "Gallery"
+msgstr "Galleria"
+
+#: inc/post-types.php:49
+#: inc/post-types.php:201
+msgid "Photo"
+msgstr "Foto"
+
+#: inc/post-types.php:49
+msgid "Photos"
+msgstr "Foto"
+
+#: inc/post-types.php:61
+msgid "Testimonals"
+msgstr "Testimonial"
+
+#: inc/post-types.php:64
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: inc/post-types.php:64
+#: inc/theme-options/featuredlist-options.php:63
+msgid "Testimonials"
+msgstr "Testimonial"
+
+#: inc/post-types.php:76
+#: inc/post-types.php:79
+#, fuzzy
+msgid "Faq"
+msgstr "Faq"
+
+#: inc/post-types.php:79
+msgid "Faqs"
+msgstr "Faq"
+
+#: inc/post-types.php:123
+msgid "The post type for the content of accordion sliders"
+msgstr "Il Post Type per gestire il contenuto degli Slider Accordion"
+
+#: inc/post-types.php:157
+msgid "Story"
+msgstr "Storia"
+
+#: inc/post-types.php:158
+msgid "Web Site"
+msgstr "Sito Web"
+
+#: inc/post-types.php:200
+msgid "Photo Title"
+msgstr "Titolo Foto"
+
+#: inc/post-types.php:202
+msgid "Category Photo"
+msgstr "Categorie Foto"
+
+#: inc/post-types.php:252
+msgid "Question"
+msgstr "Domanda"
+
+#: inc/post-types.php:253
+msgid "Answer"
+msgstr "Risposta"
+
+#: inc/post-types.php:296
+msgid "Add New"
+msgstr "Aggiungi Nuovo"
+
+#: inc/post-types.php:297
+#: inc/post-types.php:324
+#, php-format
+msgid "Add New %s"
+msgstr "Aggiungi Nuovo %s"
+
+#: inc/post-types.php:298
+#, php-format
+msgid "Edit %s"
+msgstr "Modifica %s"
+
+#: inc/post-types.php:299
+#, php-format
+msgid "New %s"
+msgstr "Nuovo %s"
+
+#: inc/post-types.php:300
+#, php-format
+msgid "View %s"
+msgstr "Visualizza %s"
+
+#: inc/post-types.php:301
+#: inc/post-types.php:318
+#, php-format
+msgid "Search %s"
+msgstr "Cerca %s"
+
+#: inc/post-types.php:302
+#, php-format
+msgid "No %s found"
+msgstr "Non %s trovato"
+
+#: inc/post-types.php:303
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Non %s trovato nel cestino"
+
+#: inc/post-types.php:319
+#, php-format
+msgid "All %s"
+msgstr "Tutto %s"
+
+#: inc/post-types.php:320
+#, php-format
+msgid "Parent %s"
+msgstr "%s Padre"
+
+#: inc/post-types.php:321
+#, php-format
+msgid "Parent %s:"
+msgstr "%s Padre:"
+
+#: inc/post-types.php:322
+msgid "Edit %"
+msgstr "Modifica %s"
+
+#: inc/post-types.php:323
+#, php-format
+msgid "Update %s"
+msgstr "Aggiorna %s"
+
+#: inc/post-types.php:325
+#, php-format
+msgid "New %s Name"
+msgstr "Nuovo %s Nome"
+
+#: inc/shortcodes.php:327
+msgid "Prev"
+msgstr ""
+
+#: inc/shortcodes.php:328
+msgid "Next"
+msgstr ""
+
+#: inc/shortcodes.php:510
+#, fuzzy
+msgid "Last News"
+msgstr "Ultime News"
+
+#: inc/shortcodes.php:531
+#, fuzzy
+msgid "Show Content?"
+msgstr "Mostra link more"
+
+#: inc/shortcodes.php:541
+#, fuzzy
+msgid "Show Author?"
+msgstr "Mostra Autore"
+
+#: inc/shortcodes.php:570
+#, fuzzy
+msgid "Works Slider"
+msgstr "Con Slider"
+
+#: inc/shortcodes.php:574
+#, fuzzy
+msgid "Post type"
+msgstr "Titolo Foto"
+
+#: inc/shortcodes.php:587
+msgid "The number of items to display. Leave -1 to show all posts."
+msgstr ""
+
+#: inc/shortcodes.php:594
+#, fuzzy
+msgid "Show sidebar"
+msgstr "Mostra Slider"
+
+#: inc/shortcodes.php:596
+msgid "With this shortcode, you can show a sidebar in the page or the post, that you always manage from \"Widgets\" admin page."
+msgstr ""
+
+#: inc/shortcodes.php:599
+#, fuzzy
+msgid "Name sidebar"
+msgstr "Crea Sidebar"
+
+#: inc/theme-options/accordions-options.php:7
+msgid "Accordion Sliders manager"
+msgstr "Gestione Slider Accordion"
+
+#: inc/theme-options/accordions-options.php:10
+msgid "Create Accordion Slider"
+msgstr "Crea Slider Accordion"
+
+#: inc/theme-options/accordions-options.php:15
+msgid "Slider name"
+msgstr "Nome Slider"
+
+#: inc/theme-options/accordions-options.php:16
+msgid "Add new accordion slider. Creating this slider, you create new custom post type automatically, where you can create the contents for this slider."
+msgstr "Aggiungi un nuovo Slider Accordion. Creando questo slider crei automaticamente un nuovo Post Type personalizzato che ti servirà per gestire i contenuti di questo Slider."
+
+#: inc/theme-options/accordions-options.php:29
+msgid "Accordion sliders created"
+msgstr "Slider Accordion creato"
+
+#: inc/theme-options/accordions-options.php:35
+msgid "List sliders created"
+msgstr "Lista Slider Creati"
+
+#: inc/theme-options/accordions-options.php:36
+#, fuzzy
+msgid "Table with sliders that you have created."
+msgstr "Tabella con le sidebar che hai creato."
+
+#: inc/theme-options/colors-options.php:7
+msgid "Colors Settings"
+msgstr "Configurazione dei Colori"
+
+#: inc/theme-options/colors-options.php:12
+#: inc/theme-options/colors-options.php:16
+#, fuzzy
+msgid "Body Background"
+msgstr "Sfondo Footer"
+
+#: inc/theme-options/colors-options.php:17
+#: inc/theme-options/colors-options.php:27
+#, fuzzy
+msgid "Select the type of body background."
+msgstr "Seleziona il tipo di Footer che desideri utilizzare per questo tema"
+
+#: inc/theme-options/colors-options.php:21
+#, fuzzy
+msgid "Color Unit"
+msgstr "Colore Testo"
+
+#: inc/theme-options/colors-options.php:26
+#, fuzzy
+msgid "Body bg Color"
+msgstr "Colore di Sfondo"
+
+#: inc/theme-options/colors-options.php:32
+#, fuzzy
+msgid "Body bg Image"
+msgstr "Carica Immagine"
+
+#: inc/theme-options/colors-options.php:33
+msgid "Select the image of body background or if you want to upload a own bg image."
+msgstr ""
+
+#: inc/theme-options/colors-options.php:38
+#, fuzzy
+msgid "Flowers 1"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:39
+#, fuzzy
+msgid "Flowers 2"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:40
+#, fuzzy
+msgid "Flowers 3"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:41
+#, fuzzy
+msgid "Flowers 4"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:42
+#, fuzzy
+msgid "Flowers 5"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:43
+#, fuzzy
+msgid "Flowers 6"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:44
+#, fuzzy
+msgid "Flowers 7"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:45
+#, fuzzy
+msgid "Flowers 8"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:46
+#, fuzzy
+msgid "Flowers 9"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:47
+#, fuzzy
+msgid "Flowers Black"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:48
+#, fuzzy
+msgid "Flowers Blue"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:49
+msgid "Flowers Black and light"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:50
+msgid "Flowers Gold and light"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:51
+msgid "Flowers Red and light"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:52
+#, fuzzy
+msgid "Painted Flowers"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:54
+msgid "Abstract 2"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:55
+msgid "Abstract 3"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:56
+msgid "Abstract 4"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:57
+msgid "Abstract 5"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:58
+msgid "Abstract 6"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:59
+msgid "Abstract 7"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:60
+#: inc/theme-options/general-options.php:154
+msgid "White"
+msgstr "Bianco"
+
+#: inc/theme-options/colors-options.php:61
+msgid "Blue 1"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:62
+msgid "Blue 2"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:63
+msgid "Blue Grey"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:64
+#, fuzzy
+msgid "Black 1"
+msgstr "Nero"
+
+#: inc/theme-options/colors-options.php:65
+#, fuzzy
+msgid "Black 2"
+msgstr "Nero"
+
+#: inc/theme-options/colors-options.php:66
+msgid "Black Papyrus"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:67
+#, fuzzy
+msgid "Black Dirt"
+msgstr "Black & White"
+
+#: inc/theme-options/colors-options.php:68
+#, fuzzy
+msgid "Black Wood"
+msgstr "Nero"
+
+#: inc/theme-options/colors-options.php:69
+#, fuzzy
+msgid "Red Squares"
+msgstr "Richiesto"
+
+#: inc/theme-options/colors-options.php:70
+msgid "Red Wood"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:71
+msgid "Natural Wood"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:72
+msgid "Birds"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:73
+#, fuzzy
+msgid "Stripes"
+msgstr "Slides"
+
+#: inc/theme-options/colors-options.php:74
+msgid "Paper 1"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:75
+msgid "Paper 2"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:76
+#, fuzzy
+msgid "Tissue"
+msgstr "Tempo"
+
+#: inc/theme-options/colors-options.php:77
+#, fuzzy
+msgid "Tiles"
+msgstr "Titolo"
+
+#: inc/theme-options/colors-options.php:78
+msgid "Metallic 1"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:79
+#, fuzzy
+msgid "Metallic Flowers"
+msgstr "Flowers"
+
+#: inc/theme-options/colors-options.php:80
+msgid "Pattern 1"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:81
+msgid "Pattern 2"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:82
+msgid "Pattern 3"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:83
+msgid "Pattern 4"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:84
+msgid "Pattern 5"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:85
+msgid "Pattern 6"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:86
+msgid "Pattern 7"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:87
+msgid "Pattern 8"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:88
+msgid "Pattern 9"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:89
+msgid "Pattern 10"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:90
+msgid "Pattern 11"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:91
+msgid "Pattern 12"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:92
+msgid "Pattern 13"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:93
+msgid "Pattern 14"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:94
+msgid "Pattern 15"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:95
+msgid "Pattern 16"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:96
+msgid "Pattern 17"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:97
+msgid "Pattern 18"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:98
+msgid "Pattern 19"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:99
+msgid "Pattern 20"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:100
+msgid "Pattern 21"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:101
+msgid "Pattern 22"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:102
+msgid "Pattern 23"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:103
+msgid "Pattern 24"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:104
+#, fuzzy
+msgid "Custom"
+msgstr "Stile Personalizzato"
+
+#: inc/theme-options/colors-options.php:112
+msgid "Body bg Image Custom"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:113
+msgid "Upload your background image."
+msgstr ""
+
+#: inc/theme-options/colors-options.php:122
+msgid "Body bg Image Repeat"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:123
+msgid "The repeat attribute of body image uploaded above."
+msgstr ""
+
+#: inc/theme-options/colors-options.php:127
+#, fuzzy
+msgid "Repeat"
+msgstr "Cancella"
+
+#: inc/theme-options/colors-options.php:128
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:129
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:130
+#, fuzzy
+msgid "No Repeat"
+msgstr "effetto"
+
+#: inc/theme-options/colors-options.php:138
+msgid "Body bg Image Position"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:139
+msgid "The position attribute of body image uploaded above."
+msgstr ""
+
+#: inc/theme-options/colors-options.php:143
+#: inc/theme-options/general-options.php:105
+#: inc/theme-options/sliders-options.php:305
+#, fuzzy
+msgid "Center"
+msgstr "centrato"
+
+#: inc/theme-options/colors-options.php:144
+#, fuzzy
+msgid "Top left"
+msgstr "sinistra"
+
+#: inc/theme-options/colors-options.php:145
+#, fuzzy
+msgid "Top center"
+msgstr "centrato"
+
+#: inc/theme-options/colors-options.php:146
+#, fuzzy
+msgid "Top right"
+msgstr "Altezza Logo"
+
+#: inc/theme-options/colors-options.php:147
+msgid "Bottom left"
+msgstr ""
+
+#: inc/theme-options/colors-options.php:148
+#, fuzzy
+msgid "Bottom center"
+msgstr "centrato"
+
+#: inc/theme-options/colors-options.php:149
+#, fuzzy
+msgid "Bottom right"
+msgstr "Altezza Logo"
+
+#: inc/theme-options/contact-options.php:9
+msgid "Contact Page Customize"
+msgstr "Personalizza Pagina Contatti"
+
+#: inc/theme-options/contact-options.php:14
+msgid "Create new"
+msgstr "Crea nuovo"
+
+#: inc/theme-options/contact-options.php:19
+msgid "New contact form."
+msgstr "Nuovo modulo contatti."
+
+#: inc/theme-options/contact-options.php:20
+msgid "Add new empty contact form, that you can add into pages or posts. After adding new form, select it on option below and click on \"Configure\" button to configure it."
+msgstr ""
+
+#: inc/theme-options/contact-options.php:23
+msgid "Add Form"
+msgstr "Aggiungi Modulo"
+
+#: inc/theme-options/contact-options.php:29
+msgid "Configure contact form."
+msgstr "Configura modulo contatti."
+
+#: inc/theme-options/contact-options.php:30
+msgid "Choose a contact form and save, to configure below your form choosen."
+msgstr ""
+
+#: inc/theme-options/contact-options.php:33
+#: inc/theme-options/sliders-options.php:56
+msgid "Configure"
+msgstr "Configura"
+
+#: inc/theme-options/contact-options.php:37
+msgid "Shortcode of form"
+msgstr "Shortcode del form"
+
+#: inc/theme-options/contact-options.php:38
+msgid "Copy this and paste into editor of pages or posts. This is the shortcode of contact form choosen on option above."
+msgstr "Copia e incolla dentro l'editor di una pagina o di un post. Questo è il codice dello Shortcode scelto nell'opzione sopra."
+
+#: inc/theme-options/contact-options.php:42
+msgid "Delete forms"
+msgstr "Elimina Modulo"
+
+#: inc/theme-options/contact-options.php:43
+msgid "Delete the forms that you have already created."
+msgstr "Elimina i moduli che hai già creato."
+
+#: inc/theme-options/contact-options.php:48
+msgid "Add example form."
+msgstr "Aggiungi un modulo d'esempio."
+
+#: inc/theme-options/contact-options.php:49
+msgid "Add a simple example form, specifing the name."
+msgstr "Aggiungi un modulo contatti di esempio specificando il nome."
+
+#: inc/theme-options/contact-options.php:53
+msgid "Create Form"
+msgstr "Crea Modulo"
+
+#: inc/theme-options/contact-options.php:59
+msgid "Contact Form Configuration for"
+msgstr "Configurazione Modulo Contatti per"
+
+#: inc/theme-options/contact-options.php:63
+msgid "To"
+msgstr "A"
+
+#: inc/theme-options/contact-options.php:64
+#, fuzzy
+msgid "Define the emails witch send the email written by the user. If they are more then one, you can write theme separated by a comma."
+msgstr "Indica un indirizzo email in cui ricevere le email inviate dagli utenti."
+
+#: inc/theme-options/contact-options.php:69
+msgid "From Email"
+msgstr "From E-mail"
+
+#: inc/theme-options/contact-options.php:70
+msgid "Define from what email send the message."
+msgstr "Indica da quale email verranno inviati i messaggi."
+
+#: inc/theme-options/contact-options.php:75
+msgid "From Name"
+msgstr "From Name"
+
+#: inc/theme-options/contact-options.php:76
+#, fuzzy
+msgid "Define the name of email that send the message."
+msgstr "Indica un indirizzo email in cui ricevere le email inviate dagli utenti."
+
+#: inc/theme-options/contact-options.php:81
+msgid "Subject"
+msgstr "Oggetto"
+
+#: inc/theme-options/contact-options.php:82
+msgid "Define the subject of the email sent to you."
+msgstr "Indica l'oggetto da assegnare alle email che saranno inviate mediante il modulo."
+
+#: inc/theme-options/contact-options.php:87
+msgid "Body"
+msgstr "Messaggio"
+
+#: inc/theme-options/contact-options.php:88
+#, fuzzy
+msgid "Configure the body email that arrives to you. You can add some shortcode, to add some value insert by user on frontend module. The shortcodes are composed with \"data_name\" that you have insert on each field, on below table, like: %data_name%.<br /><em>HTML is allowed.</em>"
+msgstr "Configura il formato del messaggio email che ti sarà inviato ogni volta che un utente ti contatta. Puoi aggiungere alcuni shortcode, gli shortcode disponibili sono: <br/>- <strong>%name%</strong>: il nome dell'utente;<br />- <strong>%from%</strong>:  l'email dell'utente che ti ha contattato;<br />- <strong>%message%</strong>: il messaggio scritto dall'utente<br /><em>L'HTML è permesso.</em>"
+
+#: inc/theme-options/contact-options.php:91
+#, fuzzy
+msgid ""
+"%message%\\n"
+"\\n"
+"<small><i>This email is been sent by %name% (email. %email%).</i></small>"
+msgstr ""
+"%message%\n"
+"\n"
+"<small><i>Questa mail è stata inviata da %name% (email. %email%).</i></small>"
+
+#: inc/theme-options/contact-options.php:93
+msgid "Label Submit Button"
+msgstr "Testo da inserire per il Pulsante di Invio"
+
+#: inc/theme-options/contact-options.php:94
+#, fuzzy
+msgid "Define the label of submit button."
+msgstr "Indica il testo da mostrare all'interno del pulsante d'invio."
+
+#: inc/theme-options/contact-options.php:99
+msgid "Alignment Submit Button"
+msgstr "Allineamento Pulsante di Invio"
+
+#: inc/theme-options/contact-options.php:100
+#, fuzzy
+msgid "Set the alignment of submit button."
+msgstr "Indica il testo da mostrare all'interno del pulsante d'invio."
+
+#: inc/theme-options/contact-options.php:110
+msgid "Message Success"
+msgstr "Messaggio inviato con successo"
+
+#: inc/theme-options/contact-options.php:111
+#, fuzzy
+msgid "Define the message for success sending."
+msgstr "Indica il messaggio da mostrare dopo che l'email viene spedita correttamente."
+
+#: inc/theme-options/contact-options.php:117
+#, fuzzy
+msgid "Define the message when there is an error on send of email."
+msgstr "Indica il messaggio da mostrare quando si verifica un errore nell'invio della mail."
+
+#: inc/theme-options/contact-options.php:126
+msgid "Customize Contact module"
+msgstr "Personalizza il modulo contatti"
+
+#: inc/theme-options/featuredlist-options.php:9
+#, fuzzy
+msgid "Rotating Slider Manager"
+msgstr "Gestione Slider Flash"
+
+#: inc/theme-options/featuredlist-options.php:15
+#, fuzzy
+msgid "Featured List Settings"
+msgstr "Altezza Immagine Principale"
+
+#: inc/theme-options/featuredlist-options.php:20
+msgid "List Element 1 - Title"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:21
+#: inc/theme-options/featuredlist-options.php:42
+#: inc/theme-options/featuredlist-options.php:60
+msgid "The title that appears in the middle of left numbers (leave empty if you don't want this title)."
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:24
+msgid "About"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:26
+msgid "List Element 1 - Subtitle"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:27
+#: inc/theme-options/featuredlist-options.php:48
+#: inc/theme-options/featuredlist-options.php:66
+msgid "The text that appears below left numbers (leave empty if you don't want this subtitle)."
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:32
+msgid "List Element 1 - Body"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:33
+#: inc/theme-options/featuredlist-options.php:54
+#: inc/theme-options/featuredlist-options.php:75
+msgid "The element's hml body."
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:36
+msgid ""
+"<h2>Di'verso is a creative agency</h2>\n"
+"<h3>We create a beautiful, original, amazing things.</h3>\n"
+"\n"
+"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel dui ut augue tempus condimentum. In erat risus, pulvinar ac pulvinar adipiscing, vestibulum eget quam. Aenean molestie viverra ante at tincidunt. Etiam rhoncus elementum ultricies. ecenas volutpat ornare auctor. In non orci nec lacus imperdiet aliquet. Curabitur eleifend nulla ut augue.</p>"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:41
+msgid "List Element 2 - Title"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:45
+msgid "Services"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:47
+msgid "List Element 2 - Subtitle"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:53
+msgid "List Element 2 - Body"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:57
+msgid "<h3>We do beautiful web sites.</h3>"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:59
+msgid "List Element 3 - Title"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:65
+msgid "List Element 3 - Subtitle"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:69
+msgid ""
+"<h2>Need a free quote?</h2>\n"
+"<p>Feel free to contact us for a free\n"
+"quote. Use this form or call us!</p>\n"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:74
+msgid "List Element 3 - Body"
+msgstr ""
+
+#: inc/theme-options/featuredlist-options.php:78
+msgid ""
+"<h3>Our clients say</h3>\n"
+"\t\t\t   \n"
+"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel dui ut augue tempus condimentum., vestibulum eget quam. Aenean molestie viverra ante at tincidunt. Etiam rhoncus elementum ultricies. ecenas volutpat seori ornare auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel dui ut augue tempus condimentum., vestibulum eget quam.</p>\n"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:6
+#, fuzzy
+msgid "Flash Slider Settings"
+msgstr "Configurazione Slider"
+
+#: inc/theme-options/flashsettings-options.php:11
+msgid "Transitions"
+msgstr "Transizioni"
+
+#: inc/theme-options/flashsettings-options.php:15
+msgid "Pieces"
+msgstr "Parti"
+
+#: inc/theme-options/flashsettings-options.php:16
+msgid "Number of pieces to which the image is sliced"
+msgstr "Numero di parti in cui scomporre l'immagine dello Slider"
+
+#: inc/theme-options/flashsettings-options.php:23
+msgid "Time"
+msgstr "Tempo"
+
+#: inc/theme-options/flashsettings-options.php:24
+msgid "Time for one cube to turn"
+msgstr "Tempo per la rotazione di un cubo."
+
+#: inc/theme-options/flashsettings-options.php:33
+msgid "Transition"
+msgstr "Transizione"
+
+#: inc/theme-options/flashsettings-options.php:34
+msgid "Transition type of the Tweener class"
+msgstr "Tipo di transizione per Tweener class"
+
+#: inc/theme-options/flashsettings-options.php:40
+msgid "Depth Offset"
+msgstr "Offset profondità"
+
+#: inc/theme-options/flashsettings-options.php:41
+msgid "The offset during transition on the z-axis. Value between 100 and 1000 are recommended."
+msgstr "La durata della transizione di offset nell'asse Z. E' raccomandato inserire valori compresi tra 100 e 1000."
+
+#: inc/theme-options/flashsettings-options.php:49
+msgid "Cube Distance"
+msgstr "Distanza Cubo"
+
+#: inc/theme-options/flashsettings-options.php:50
+msgid "The distance between the cubes during transition. Values between 5 and 50 are recommended."
+msgstr "La distanza tra i cubi durante la transizione. E' raccomandato inserire valori compresi tra 5 e 50."
+
+#: inc/theme-options/flashsettings-options.php:61
+msgid "General Configuration"
+msgstr "Configurazione Generale"
+
+#: inc/theme-options/flashsettings-options.php:65
+msgid "Loader Color"
+msgstr "Colore Loader"
+
+#: inc/theme-options/flashsettings-options.php:66
+msgid "Color of the cubes before the first image appears, also the color of the back sides of the cube, which become visible at some transition types"
+msgstr "Colore dei budi prima che la prima immagine appaia, così come anche il colore nelle faccie retrostanti il cubo, che diventa visibile soltanto con alcuni tipi di transizione."
+
+#: inc/theme-options/flashsettings-options.php:71
+msgid "Inner Side Color"
+msgstr "Colore Parte Interna"
+
+#: inc/theme-options/flashsettings-options.php:72
+msgid "Color of the inner sides of the cube when sliced"
+msgstr "Colore della parte interna dei cubi quando "
+
+#: inc/theme-options/flashsettings-options.php:77
+#: inc/theme-options/sliders-options.php:251
+#: inc/theme-options/sliders-options.php:293
+msgid "Autoplay"
+msgstr "Auto-play"
+
+#: inc/theme-options/flashsettings-options.php:78
+msgid "Number of seconds from one transition to another, if not stopped. Set to 0 to disable autoplay"
+msgstr "Numero di secondi tra una trasizione e l'altro, se non stoppata. Imposta 0 per disabilitare l'autoplay."
+
+#: inc/theme-options/flashsettings-options.php:90
+msgid "Shadow"
+msgstr "Ombra"
+
+#: inc/theme-options/flashsettings-options.php:94
+msgid "Side Shadow Alpha"
+msgstr "Opacità Ombra"
+
+#: inc/theme-options/flashsettings-options.php:95
+#, fuzzy, php-format
+msgid "Sides get darker when moved away from the front. This is the degree of darkness - 0 == no change, 1 == 100% black."
+msgstr "Le parti che diventano più scure quando vengono spostati dalla parte frontale. 0 == nessun cambiamento, 1 == 100% nero."
+
+#: inc/theme-options/flashsettings-options.php:103
+#, fuzzy
+msgid "Drop Shadow Alpha"
+msgstr "Opacità Ombra"
+
+#: inc/theme-options/flashsettings-options.php:104
+msgid "Alpha of the drop shadow - 0 == no shadow, 1 == opaque"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:112
+msgid "Drop Shadow Distance"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:113
+msgid "Distance of the shadow from the bottom of the image"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:120
+msgid "Drop Shadow Scale"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:121
+msgid "As the shadow is blurred, it appears wider that the actual image, when not resized. Thus it's a good idea to make it slightly smaller. - 1 would be no resizing at all."
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:129
+msgid "Drop Shadow Blur X"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:130
+msgid "Blur of the drop shadow on the x-axis"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:137
+msgid "Drop Shadow Blur Y"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:138
+msgid "Blur of the drop shadow on the y-axis"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:149
+msgid "Menu"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:153
+#, fuzzy
+msgid "Menu Distance X"
+msgstr "Distanza Cubo"
+
+#: inc/theme-options/flashsettings-options.php:154
+msgid "Distance between two menu items (from center to center)."
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:161
+#, fuzzy
+msgid "Menu Distance Y"
+msgstr "Distanza Cubo"
+
+#: inc/theme-options/flashsettings-options.php:162
+msgid "Distance of the menu from the bottom of the image."
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:169
+msgid "Menu Color Inactive Item"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:170
+msgid "Color of an inactive menu item."
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:175
+msgid "Menu Color Active Item"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:176
+msgid "Color of an active menu item."
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:181
+msgid "Menu Color Inner Circle od Active Item"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:182
+msgid "Color of the inner circle of an active menu item. Should equal the background color of the whole thing."
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:191
+#, fuzzy
+msgid "Controls"
+msgstr "Controlla Allineamento"
+
+#: inc/theme-options/flashsettings-options.php:195
+msgid "Control Size"
+msgstr "Controllo Dimensione"
+
+#: inc/theme-options/flashsettings-options.php:196
+msgid "Size of the controls, which appear on rollover (play, stop, info, link)"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:204
+#, fuzzy
+msgid "Control Distance"
+msgstr "Controllo Dimensione"
+
+#: inc/theme-options/flashsettings-options.php:205
+msgid "Distance between the controls (from the borders)."
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:212
+msgid "Bg Color"
+msgstr "Colore di Sfondo"
+
+#: inc/theme-options/flashsettings-options.php:213
+msgid "Background color of the controls"
+msgstr "Colore di Background dei controlli"
+
+#: inc/theme-options/flashsettings-options.php:218
+msgid "Font Color"
+msgstr "Colore del Font"
+
+#: inc/theme-options/flashsettings-options.php:219
+#, fuzzy
+msgid "Font color of the controls"
+msgstr "Colore di Background dei controlli"
+
+#: inc/theme-options/flashsettings-options.php:224
+msgid "Control Alpha"
+msgstr "Controllo Opacità"
+
+#: inc/theme-options/flashsettings-options.php:225
+msgid "Alpha of a control, when mouse is not over"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:233
+#, fuzzy
+msgid "Control Alpha Hover status"
+msgstr "Controllo Opacità"
+
+#: inc/theme-options/flashsettings-options.php:234
+msgid "Alpha of a control, when mouse is hover."
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:242
+#, fuzzy
+msgid "Control X"
+msgstr "Controllo Dimensione"
+
+#: inc/theme-options/flashsettings-options.php:243
+msgid "X-position of the point, which aligns the controls (measured from [0,0] of the image)"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:251
+#, fuzzy
+msgid "Control Y"
+msgstr "Controllo Dimensione"
+
+#: inc/theme-options/flashsettings-options.php:252
+msgid "Y-position of the point, which aligns the controls (measured from [0,0] of the image)"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:260
+msgid "Controls Align"
+msgstr "Controlla Allineamento"
+
+#: inc/theme-options/flashsettings-options.php:261
+msgid "Type of alignment from the point [controlsX, controlsY]"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:265
+msgid "center"
+msgstr "centrato"
+
+#: inc/theme-options/flashsettings-options.php:266
+msgid "left"
+msgstr "sinistra"
+
+#: inc/theme-options/flashsettings-options.php:267
+#, fuzzy
+msgid "right"
+msgstr "destra"
+
+#: inc/theme-options/flashsettings-options.php:275
+msgid "Tooltip"
+msgstr "Suggerimento"
+
+#: inc/theme-options/flashsettings-options.php:279
+#, fuzzy
+msgid "Tooltip Height"
+msgstr "Altezza Logo"
+
+#: inc/theme-options/flashsettings-options.php:280
+msgid "Height of the tooltip surface in the menu"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:287
+#, fuzzy
+msgid "Tooltip Color"
+msgstr "Contenuto Testo"
+
+#: inc/theme-options/flashsettings-options.php:288
+#, fuzzy
+msgid "Color of the tooltip surface in the menu"
+msgstr "Colore Titoli Footer"
+
+#: inc/theme-options/flashsettings-options.php:293
+#, fuzzy
+msgid "Tooltip Text Y"
+msgstr "Contenuto Testo"
+
+#: inc/theme-options/flashsettings-options.php:294
+msgid "Y-distance of the tooltip text field from the top of the tooltip"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:301
+#, fuzzy
+msgid "Tooltip Text Color"
+msgstr "Contenuto Testo"
+
+#: inc/theme-options/flashsettings-options.php:302
+#, fuzzy
+msgid "Color of the tooltip text"
+msgstr "Colore Titoli Footer"
+
+#: inc/theme-options/flashsettings-options.php:307
+#, fuzzy
+msgid "Tooltip Margin Left"
+msgstr "Contenuto Testo"
+
+#: inc/theme-options/flashsettings-options.php:308
+msgid "Margin of the text to the left end of the tooltip"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:315
+#, fuzzy
+msgid "Tooltip Margin Right"
+msgstr "Contenuto Testo"
+
+#: inc/theme-options/flashsettings-options.php:316
+msgid "Margin of the text to the right end of the tooltip"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:323
+#, fuzzy
+msgid "Tooltip Text Sharpness"
+msgstr "Contenuto Testo"
+
+#: inc/theme-options/flashsettings-options.php:324
+#, fuzzy
+msgid "Sharpness of the tooltip text (-400 to 400)"
+msgstr "Colore Titoli Footer"
+
+#: inc/theme-options/flashsettings-options.php:332
+#, fuzzy
+msgid "Tooltip Text Thickness"
+msgstr "Contenuto Testo"
+
+#: inc/theme-options/flashsettings-options.php:333
+msgid "Thickness of the tooltip text (-400 to 400)"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:345
+#, fuzzy
+msgid "Info Box"
+msgstr "Contatti"
+
+#: inc/theme-options/flashsettings-options.php:349
+#, fuzzy
+msgid "Info Width"
+msgstr "Larghezza Logo"
+
+#: inc/theme-options/flashsettings-options.php:350
+#, fuzzy
+msgid "The width of the info text field"
+msgstr "Seleziona un colore di sfondo da assegnare al campo info."
+
+#: inc/theme-options/flashsettings-options.php:358
+#, fuzzy
+msgid "Info Background"
+msgstr "Sfondo Footer"
+
+#: inc/theme-options/flashsettings-options.php:359
+msgid "The background color of the info text field"
+msgstr "Seleziona un colore di sfondo da assegnare al campo info."
+
+#: inc/theme-options/flashsettings-options.php:364
+#, fuzzy
+msgid "Info Background Alpha"
+msgstr "Sfondo Footer"
+
+#: inc/theme-options/flashsettings-options.php:365
+msgid "The alpha of the background of the info text, the image shines through, when smaller than 1"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:373
+#, fuzzy
+msgid "Info Margin"
+msgstr "Sfondo Footer"
+
+#: inc/theme-options/flashsettings-options.php:374
+msgid "The margin of the text field in the info section to all sides"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:381
+msgid "Info Text Sharpness"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:382
+msgid "Sharpness of the Info text (-400 to 400)"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:390
+msgid "Info Text Thickness"
+msgstr ""
+
+#: inc/theme-options/flashsettings-options.php:391
+msgid "Thickness of the Info text (-400 to 400)"
+msgstr ""
+
+#: inc/theme-options/general-options.php:7
+msgid "General Settings"
+msgstr "Configurazione Generale"
+
+#: inc/theme-options/general-options.php:10
+#: inc/theme-options/general-options.php:15
+msgid "Activate responsive"
+msgstr ""
+
+#: inc/theme-options/general-options.php:16
+msgid "Select the skin you want to use in this theme. NB: if you want to change the skin, select it before continue."
+msgstr ""
+
+#: inc/theme-options/general-options.php:33
+msgid "Custom Favicon"
+msgstr "Favicon Personalizzata"
+
+#: inc/theme-options/general-options.php:34
+msgid "A favicon is a 16x16 pixel icon that represents your site; paste the URL to a .ico image that you want to use as the image"
+msgstr "Una favicon è un'icona di 16x16 pixel che rappresenta il tuo sito; inserisci l'URL ad una immagine .ico che vuoi usare come Favicon"
+
+#: inc/theme-options/general-options.php:39
+msgid "Custom Style"
+msgstr "Stile Personalizzato"
+
+#: inc/theme-options/general-options.php:40
+msgid "You can write here your custom css, that will replace the default css."
+msgstr ""
+
+#: inc/theme-options/general-options.php:45
+#, fuzzy
+msgid "Images style"
+msgstr "Immagine"
+
+#: inc/theme-options/general-options.php:46
+msgid "Choose the style for the images. Note: the spheric style doesn't work with verion 8 or minor of Internet Exploder."
+msgstr ""
+
+#: inc/theme-options/general-options.php:50
+#, fuzzy
+msgid "Spheric"
+msgstr "Cerca"
+
+#: inc/theme-options/general-options.php:51
+#, fuzzy
+msgid "Square"
+msgstr "Salva"
+
+#: inc/theme-options/general-options.php:55
+msgid "Lightbox Skin"
+msgstr "Skin Lightbox"
+
+#: inc/theme-options/general-options.php:56
+msgid "Specific what skin you want for videos and images lightbox."
+msgstr "Scegli una skin da utilizzare per mostrare video e immagini con effetto lightbox."
+
+#: inc/theme-options/general-options.php:69
+#, fuzzy
+msgid "Google analytics"
+msgstr "Google Analytics"
+
+#: inc/theme-options/general-options.php:70
+msgid "You can write here your google analytics code, in the same way that google give you."
+msgstr ""
+
+#: inc/theme-options/general-options.php:86
+#, fuzzy
+msgid "Show Topbar"
+msgstr "Mostra Autore"
+
+#: inc/theme-options/general-options.php:87
+#, fuzzy
+msgid "Say if you want the topbar on header above the header."
+msgstr "Indica se desideri mostrare lo Slider in Home Page"
+
+#: inc/theme-options/general-options.php:98
+msgid "Links alignment"
+msgstr ""
+
+#: inc/theme-options/general-options.php:99
+#, fuzzy
+msgid "Say the alignment of all links in the topbar"
+msgstr "Indica il testo da mostrare all'interno del pulsante d'invio."
+
+#: inc/theme-options/general-options.php:109
+msgid "Show Login link"
+msgstr ""
+
+#: inc/theme-options/general-options.php:110
+#, fuzzy
+msgid "Say if you want the link login into the topbar."
+msgstr "Indica se vuoi mostrare la Google Map nella pagina Contatti."
+
+#: inc/theme-options/general-options.php:132
+msgid "Logo URL"
+msgstr "URL Logo"
+
+#: inc/theme-options/general-options.php:133
+msgid "Enter the URL to your logo image"
+msgstr "Inserisci l'URL dell'immagine del tuo logo"
+
+#: inc/theme-options/general-options.php:150
+msgid "Color Dropdown Menu"
+msgstr "Colore Sottomenù"
+
+#: inc/theme-options/general-options.php:151
+msgid "Select the colour of dropdown menu navigation."
+msgstr "Seleziona il colore per il sottomenù di navigazione."
+
+#: inc/theme-options/general-options.php:154
+msgid "Black"
+msgstr "Nero"
+
+#: inc/theme-options/general-options.php:164
+msgid "Blog Settings"
+msgstr "Configurazione Blog"
+
+#: inc/theme-options/general-options.php:168
+#, fuzzy
+msgid "Blog Type"
+msgstr "Pagina Blog"
+
+#: inc/theme-options/general-options.php:169
+#, fuzzy
+msgid "Say the layout for your blog page."
+msgstr "Scegli il layout da utilizzare per la tua pagina portfolio"
+
+#: inc/theme-options/general-options.php:172
+#, fuzzy
+msgid "Big Thumbnail"
+msgstr "Mostra thumbnail"
+
+#: inc/theme-options/general-options.php:172
+#, fuzzy
+msgid "Small Thumbnail"
+msgstr "Mostra thumbnail"
+
+#: inc/theme-options/general-options.php:175
+#, fuzzy
+msgid "Blog Read More text"
+msgstr "|| Continua a leggere"
+
+#: inc/theme-options/general-options.php:176
+#, fuzzy
+msgid "Set the text for the \"Read More\" button."
+msgstr "Seleziona la dimensione per il testo principale del tema."
+
+#: inc/theme-options/general-options.php:181
+msgid "Exclude categories"
+msgstr "Escludi Categorie"
+
+#: inc/theme-options/general-options.php:182
+msgid "Select witch categories you want exlude from blog."
+msgstr "Seleziona le Categorie che vuoi escludere dalla visualizzazione sul Blog."
+
+#: inc/theme-options/general-options.php:186
+msgid "Blog Page"
+msgstr "Pagina Blog"
+
+#: inc/theme-options/general-options.php:186
+msgid "List cat. sidebar"
+msgstr "Lista Categorie sidebar"
+
+#: inc/theme-options/general-options.php:189
+msgid "Show featured image in Blog posts list"
+msgstr ""
+
+#: inc/theme-options/general-options.php:190
+#, fuzzy
+msgid "Say if you want to show the featured image in the blog posts list page"
+msgstr "Indica se desideri mostrare la Sidebar in Home Page"
+
+#: inc/theme-options/general-options.php:195
+#, fuzzy
+msgid "Show featured image in Post single page"
+msgstr "Specifica la dimensione dell'immagine principale"
+
+#: inc/theme-options/general-options.php:196
+#, fuzzy
+msgid "Say if you want to show the featured image in the post single page"
+msgstr "Indica se desideri mostrare la Sidebar in Home Page"
+
+#: inc/theme-options/general-options.php:201
+msgid "Featured Images Alignment"
+msgstr "Allineamento Immagine Principale"
+
+#: inc/theme-options/general-options.php:202
+msgid "Specific the featured images alignment"
+msgstr "Specifica l'allinemaneto che desideri assegnare all'immagina principale del post"
+
+#: inc/theme-options/general-options.php:244
+msgid "Twitter section"
+msgstr ""
+
+#: inc/theme-options/general-options.php:248
+#, fuzzy
+msgid "Show twitter"
+msgstr "Mostra Titolo"
+
+#: inc/theme-options/general-options.php:249
+msgid "Select if you want to show the big footer, above the footer section. NOTE: this settings will be valid for the new pages, but for the pages already created, you need to deactivate it in each page, by theOptions page box."
+msgstr ""
+
+#: inc/theme-options/general-options.php:254
+#, fuzzy
+msgid "Username"
+msgstr "Nome Slider"
+
+#: inc/theme-options/general-options.php:255
+msgid "The username of twitter account."
+msgstr ""
+
+#: inc/theme-options/general-options.php:261
+#: inc/theme-options/home-options.php:75
+msgid "How many tweets to include into the slider."
+msgstr ""
+
+#: inc/theme-options/general-options.php:268
+#: inc/theme-options/home-options.php:82
+#: inc/theme-options/sliders-options.php:104
+#: inc/theme-options/sliders-options.php:168
+#: inc/theme-options/sliders-options.php:207
+#: inc/theme-options/sliders-options.php:267
+#: inc/theme-options/sliders-options.php:309
+msgid "Speed (s)"
+msgstr "Velocità (s)"
+
+#: inc/theme-options/general-options.php:269
+#: inc/theme-options/home-options.php:83
+#: inc/theme-options/sliders-options.php:105
+#: inc/theme-options/sliders-options.php:169
+#: inc/theme-options/sliders-options.php:208
+#: inc/theme-options/sliders-options.php:268
+#: inc/theme-options/sliders-options.php:310
+msgid "Select the speed of transiction between slides, expressed in seconds."
+msgstr "Seleziona la velocità della transizione tra gli slide, expressa in secondi."
+
+#: inc/theme-options/general-options.php:277
+#: inc/theme-options/home-options.php:91
+#: inc/theme-options/sliders-options.php:113
+#: inc/theme-options/sliders-options.php:177
+#: inc/theme-options/sliders-options.php:216
+#: inc/theme-options/sliders-options.php:276
+#: inc/theme-options/sliders-options.php:318
+msgid "Timeout (s)"
+msgstr "Attesa (s)"
+
+#: inc/theme-options/general-options.php:278
+#: inc/theme-options/home-options.php:92
+#: inc/theme-options/sliders-options.php:114
+#: inc/theme-options/sliders-options.php:178
+#: inc/theme-options/sliders-options.php:217
+#: inc/theme-options/sliders-options.php:277
+#: inc/theme-options/sliders-options.php:319
+msgid "Select the delay between slides, expressed in seconds."
+msgstr "Seleziona la pausa tra le slide, expressa in secondi."
+
+#: inc/theme-options/general-options.php:297
+#, fuzzy
+msgid "Show footer"
+msgstr "Mostra data"
+
+#: inc/theme-options/general-options.php:298
+#, fuzzy
+msgid "Select if you want to show the big footer, above the copyright section."
+msgstr "Indica se desideri mostrare lo i Prodotti Speciali sotto il Dettaglio della pagina prodotto."
+
+#: inc/theme-options/general-options.php:303
+msgid "Columns of footer main section."
+msgstr ""
+
+#: inc/theme-options/general-options.php:304
+#, fuzzy
+msgid "Select number of columns for the main footer section."
+msgstr "Seleziona la dimensione per il testo principale del tema."
+
+#: inc/theme-options/general-options.php:316
+#, fuzzy
+msgid "Copyright Section"
+msgstr "Sfondo Sezione Copyright"
+
+#: inc/theme-options/general-options.php:317
+#, fuzzy
+msgid "Select the copyright layout type for the theme"
+msgstr "Seleziona il tipo di Footer che desideri utilizzare per questo tema"
+
+#: inc/theme-options/general-options.php:321
+msgid "Two Columns Footer"
+msgstr "Footer a due colonne"
+
+#: inc/theme-options/general-options.php:322
+msgid "Centered Footer"
+msgstr "Footer Centrato"
+
+#: inc/theme-options/general-options.php:326
+#, fuzzy
+msgid "Copyright centered text"
+msgstr "Testo Centrato nel Footer"
+
+#: inc/theme-options/general-options.php:327
+msgid "Enter text used in <strong>centered footer</strong>. It can be HTML."
+msgstr "Inserisci il testo da mostrare sul Footer Centrato (es. copyright, credits, ecc). L'HTML è permesso."
+
+#: inc/theme-options/general-options.php:336
+#, fuzzy
+msgid "Copyright copyright text Left"
+msgstr "Testo Copyright a Sinistra"
+
+#: inc/theme-options/general-options.php:337
+#, fuzzy
+msgid "Enter text used in the left side of the footer. It can be HTML."
+msgstr "Inserisci il testo da mostrare sul Footer Centrato (es. copyright, credits, ecc). L'HTML è permesso."
+
+#: inc/theme-options/general-options.php:346
+#, fuzzy
+msgid "Copyright copyright text Right"
+msgstr "Testo Copyright"
+
+#: inc/theme-options/general-options.php:347
+#, fuzzy
+msgid "Enter text used in the right side of the footer. It can be HTML."
+msgstr "Inserisci il testo da mostrare sul Footer Centrato (es. copyright, credits, ecc). L'HTML è permesso."
+
+#: inc/theme-options/home-options.php:4
+msgid "Home Row"
+msgstr ""
+
+#: inc/theme-options/home-options.php:5
+#, fuzzy
+msgid "Sections"
+msgstr "Testo Principale"
+
+#: inc/theme-options/home-options.php:6
+#, fuzzy
+msgid "Page Content"
+msgstr "Contenuto Extra"
+
+#: inc/theme-options/home-options.php:7
+#: inc/theme-options/home-options.php:70
+#, fuzzy
+msgid "Testimonials Slider"
+msgstr "Mostra lo Slider Testimonial"
+
+#: inc/theme-options/home-options.php:14
+#, fuzzy
+msgid "Home Sections"
+msgstr "Elimina Opzione"
+
+#: inc/theme-options/home-options.php:19
+msgid "Composer"
+msgstr ""
+
+#: inc/theme-options/home-options.php:55
+#, fuzzy
+msgid "Homepage Sections"
+msgstr "Home Page"
+
+#: inc/theme-options/sidebars-options.php:7
+msgid "Sidebar Manager"
+msgstr "Gestione Sidebar"
+
+#: inc/theme-options/sidebars-options.php:10
+msgid "Create Sidebar"
+msgstr "Crea Sidebar"
+
+#: inc/theme-options/sidebars-options.php:15
+msgid "Sidebar name"
+msgstr "Nome Sidebar"
+
+#: inc/theme-options/sidebars-options.php:16
+#, fuzzy
+msgid "Add a new sidebar.<br/><b>NB:</b> by default, there are 1 sidebar have already created: <br />- \"<strong>Blog Sidebar</strong>\", for Blog Template; <br />- \"<strong>Home Colourful Section</strong>\"; <br />- \"<strong>Home Sidebar</strong>\"; <br />- \"<strong>Footer Row 1/2/3</strong>\", for Footer."
+msgstr "Aggiungi nuova sidebar.<br/><b>NB:</b> di default, ci sono 4 sidebar già create: <br />- '<strong>Blog Sidebar</strong>' per il template del Blog; <br/>- '<strong>Righe Footer 1/2/3</strong>' per il Footer."
+
+#: inc/theme-options/sidebars-options.php:29
+msgid "Sidebar created"
+msgstr "Sidebar creata"
+
+#: inc/theme-options/sidebars-options.php:36
+msgid "List sidebar created"
+msgstr "Lista Sidebar create"
+
+#: inc/theme-options/sidebars-options.php:37
+msgid "Table with sidebar that you have created."
+msgstr "Tabella con le sidebar che hai creato."
+
+#: inc/theme-options/sliders-options.php:34
+msgid "Sliders Manager"
+msgstr "Gestione Slider"
+
+#: inc/theme-options/sliders-options.php:39
+#, fuzzy
+msgid "Select slider to show or configure"
+msgstr "Seleziona la sidebar della pagina"
+
+#: inc/theme-options/sliders-options.php:44
+msgid "Default Header image type"
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:45
+#, fuzzy
+msgid "Select the default header type for homepage pages."
+msgstr "Seleziona il tipo di Footer che desideri utilizzare per questo tema"
+
+#: inc/theme-options/sliders-options.php:45
+#, php-format
+msgid "for \"Fixed Image\", you can configure it on %s -> %s."
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:45
+msgid "Appearance"
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:49
+msgid "fixed-image"
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:51
+msgid "Configure slider."
+msgstr "Configura Slider"
+
+#: inc/theme-options/sliders-options.php:53
+msgid "Choose a slider and save, to configure below your slider choosen."
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:59
+msgid "Responsive Behavior"
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:61
+msgid "Say what you want to do when the website is loaded by lower resolution screen."
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:61
+msgid "The option \"Leave the slider\" is available only for \"elastic\" slider, because is the only one that has a correct responsive behavior. If you use another slider type, the slider will be hidden in lower resolutions."
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:64
+#, fuzzy
+msgid "Leave the slider"
+msgstr "News sotto lo Slider"
+
+#: inc/theme-options/sliders-options.php:65
+#, fuzzy
+msgid "Remove the slider"
+msgstr "News sotto lo Slider"
+
+#: inc/theme-options/sliders-options.php:66
+msgid "Replace with \"Fixed Image\""
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:74
+#: inc/theme-options/sliders-options.php:86
+#: inc/theme-options/sliders-options.php:153
+#: inc/theme-options/sliders-options.php:190
+#: inc/theme-options/sliders-options.php:247
+#: inc/theme-options/sliders-options.php:289
+msgid "Slider Settings"
+msgstr "Configurazione Slider"
+
+#: inc/theme-options/sliders-options.php:78
+#, fuzzy
+msgid "Settings flash slider"
+msgstr "configurazione salvata"
+
+#: inc/theme-options/sliders-options.php:79
+msgid "To configure the flash slider settings, go to the \"Flash slider\" tab."
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:90
+#: inc/theme-options/sliders-options.php:157
+#: inc/theme-options/sliders-options.php:200
+#: inc/theme-options/sliders-options.php:257
+msgid "Effect"
+msgstr "effetto"
+
+#: inc/theme-options/sliders-options.php:91
+#: inc/theme-options/sliders-options.php:158
+#: inc/theme-options/sliders-options.php:201
+msgid "Select the effect you want for slides transiction."
+msgstr "Seleziona il tipo di effetto che vuoi avere tra le transizioni delle slide."
+
+#: inc/theme-options/sliders-options.php:97
+msgid "Easing"
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:98
+msgid "Select the easing for effect transition."
+msgstr "Seleziona il tipo di effetto che vuoi avere tra le transizioni delle slide."
+
+#: inc/theme-options/sliders-options.php:122
+#, fuzzy
+msgid "Caption position"
+msgstr "Transizione"
+
+#: inc/theme-options/sliders-options.php:123
+#, fuzzy
+msgid "Select the position of caption."
+msgstr "Seleziona il colore da assegnare a tutti i link del tema."
+
+#: inc/theme-options/sliders-options.php:134
+#, fuzzy
+msgid "Caption Speed (s)"
+msgstr "Velocità (s)"
+
+#: inc/theme-options/sliders-options.php:135
+#, fuzzy
+msgid "Select the speed of caption appearance."
+msgstr "Seleziona il tipo di Footer che desideri utilizzare per questo tema"
+
+#: inc/theme-options/sliders-options.php:143
+msgid "More text"
+msgstr "Testo More"
+
+#: inc/theme-options/sliders-options.php:144
+#, fuzzy
+msgid "Write what you want to show on more link, if you have selected \"YES\" on option above."
+msgstr "Scrivi ciò che vuoi mostrare nel link 'More', se hai già selezionato 'SI' nell'opzione sopra."
+
+#: inc/theme-options/sliders-options.php:147
+msgid "Read more..."
+msgstr "Leggi altro..."
+
+#: inc/theme-options/sliders-options.php:194
+#, fuzzy
+msgid "Slider Height"
+msgstr "Configurazione Slider"
+
+#: inc/theme-options/sliders-options.php:195
+#, fuzzy
+msgid "Set the slider height, according to your images."
+msgstr "Mostra lo slider accordion su questa pagina."
+
+#: inc/theme-options/sliders-options.php:225
+#, fuzzy
+msgid "Next & Prev navigation"
+msgstr "Navigazione"
+
+#: inc/theme-options/sliders-options.php:226
+msgid "Choose if you want to show Next & Prev arrows"
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:231
+msgid "Next & Prev navigation only on hover"
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:232
+#, fuzzy
+msgid "Choose if you want to show Next & Prev arrows only on hover"
+msgstr "Indica se desideri mostrare lo Slider in Home Page"
+
+#: inc/theme-options/sliders-options.php:237
+msgid "Enable Bullets"
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:238
+#, fuzzy
+msgid "Choose if you want to show bullets navigation below the slider"
+msgstr "Indica se vuoi mostrare la sezione con Sfondo Colorato, visualizzata sotto lo Slider."
+
+#: inc/theme-options/sliders-options.php:252
+#: inc/theme-options/sliders-options.php:294
+#, fuzzy
+msgid "Select if you want that the slider change the slide automatically."
+msgstr "Indica se desideri mostrare lo i Prodotti Speciali sotto il Dettaglio della pagina prodotto."
+
+#: inc/theme-options/sliders-options.php:258
+#, fuzzy
+msgid "Select the effect for the transition."
+msgstr "Seleziona il tipo di effetto che vuoi avere tra le transizioni delle slide."
+
+#: inc/theme-options/sliders-options.php:262
+#, fuzzy
+msgid "Fade"
+msgstr "Heart"
+
+#: inc/theme-options/sliders-options.php:263
+#, fuzzy
+msgid "Slide"
+msgstr "Slides"
+
+#: inc/theme-options/sliders-options.php:299
+#, fuzzy
+msgid "Animation"
+msgstr "Navigazione"
+
+#: inc/theme-options/sliders-options.php:300
+msgid "Animation types -> \"sides\" : new slides will slide in from left / right; \"center\": new slides will appear in the center."
+msgstr ""
+
+#: inc/theme-options/sliders-options.php:304
+#, fuzzy
+msgid "Sides"
+msgstr "Slides"
+
+#: inc/theme-options/sliders-options.php:331
+msgid "Slides"
+msgstr "Slides"
+
+#: inc/theme-options/typography-options.php:7
+msgid "Typography Settings"
+msgstr "Configurazione Tipografia"
+
+#: inc/theme-options/typography-options.php:15
+#, fuzzy
+msgid "Title fonts"
+msgstr "Titolo"
+
+#: inc/theme-options/typography-options.php:16
+#, fuzzy
+msgid "Select the type to use for the fonts."
+msgstr "Seleziona il tipo di Footer che desideri utilizzare per questo tema"
+
+#: inc/theme-options/typography-options.php:23
+#, fuzzy
+msgid "Navigation font"
+msgstr "Navigazione"
+
+#: inc/theme-options/typography-options.php:24
+#, fuzzy
+msgid "Select font for the navigation."
+msgstr "Seleziona la dimensione del font da assegnare ai link della Navigazione principale."
+
+#: inc/theme-options/typography-options.php:39
+msgid "Paragraphs"
+msgstr ""
+
+#: inc/theme-options/typography-options.php:40
+#, fuzzy
+msgid "Select font for the paragraphs."
+msgstr "Seleziona la dimensione del font da assegnare ai link della Navigazione principale."
+
+#: inc/widgets/gallery_categories.php:8
+#, fuzzy
+msgid "Get list of gallery categories, created on portfolio custom type."
+msgstr "Seleziona le Categorie che vuoi escludere dalla visualizzazione sul Blog."
+
+#: inc/widgets/gallery_categories.php:29
+msgid "Show a list of gallery categories, for gallery custom types."
+msgstr ""
+
+#: inc/widgets/gallery_categories.php:43
+#: inc/widgets/portfolio_categories.php:123
+msgid "All"
+msgstr "Tutto"
+
+#: inc/widgets/icon_text.php:14
+#, fuzzy
+msgid "Arbitrary text or HTML, with a simple icon near title."
+msgstr "Testo o HTML arbitrario, con una semplice immagine sopra il testo."
+
+#: inc/widgets/icon_text.php:49
+#, fuzzy
+msgid "Icon"
+msgstr "in"
+
+#: inc/widgets/icon_text.php:54
+msgid "or upload your icon:"
+msgstr ""
+
+#: inc/widgets/more_projects.php:9
+msgid "Show a slider with a list of projects, added into portfolio Post Type."
+msgstr ""
+
+#: inc/widgets/portfolio_categories.php:15
+#, fuzzy
+msgid "Get list of portfolio categories, created on portfolio custom type."
+msgstr "Seleziona le Categorie che vuoi escludere dalla visualizzazione sul Blog."
+
+#: inc/widgets/portfolio_categories.php:89
+msgid "Show a list of portfolio categories, for portfolio custom types."
+msgstr ""
+
+#: inc/widgets/testimonials.php:9
+msgid "Add a slider testimonial on your widget which link a category to show the contents."
+msgstr "Aggiunge uno slider Testimonial sulla tua sidebar e lo collega ad una categoria per mostrarne il contenuto."
+
+#~ msgid "Category Project"
+#~ msgstr "Categorie Progetto"
+
+#~ msgid "Logo Width"
+#~ msgstr "Larghezza Logo"
+
+#~ msgid "Logo Height"
+#~ msgstr "Altezza Logo"
+
+#~ msgid "portfolio"
+#~ msgstr "portfolio"
+
+#~ msgid "Select how many items you want to show."
+#~ msgstr "Seleziona il numero di oggetti da mostrare."
+
+#~ msgid "Select how many items you want to show on Blog Page"
+#~ msgstr "Seleziona il numero di articoli che vuoi mostrare sulla Pagina Blog"
+
+#~ msgid "The last news."
+#~ msgstr "Le ultime news."
+
+#~ msgid "Show date"
+#~ msgstr "Mostra data"
+
+#~ msgid "Show author"
+#~ msgstr "Mostra Autore"
+
+#~ msgid "posted by"
+#~ msgstr "scritto da"
+
+#, fuzzy
+#~ msgid "|| Read more"
+#~ msgstr "|| Continua a leggere"
+
+#~ msgid "Sign up"
+#~ msgstr "Registrati"
+
+#~ msgid "TITLE OF SECTION"
+#~ msgstr "TITOLO DELLA SEZIONE"
+
+#~ msgid "Body content background color"
+#~ msgstr "Colore di sfondo per il corpo della pagina."
+
+#~ msgid "Select the background color of the main text content."
+#~ msgstr "Seleziona un colore di sfondo da assegnare al corpo della pagina."
+
+#~ msgid ""
+#~ "<p>New version <strong>%s</strong> available of <strong>Beauty theme</"
+#~ "strong>. You will have new email, on your email address, where you can "
+#~ "download the new version!</p>"
+#~ msgstr ""
+#~ "<p>Nuova versione <strong>%s</strong> disponibile di <strong>%s</strong>. "
+#~ "You will have new email, on your email address, where you can download "
+#~ "the new version!</p>"
+
+#~ msgid "Remove WpAutoP filter."
+#~ msgstr "Rimuovi il filtro WpAuto."
+
+#~ msgid "Slogan page"
+#~ msgstr "Slogan della Pagina"
+
+#~ msgid "Team"
+#~ msgstr "Team"
+
+#~ msgid "Worker"
+#~ msgstr "Worker"
+
+#~ msgid "Workers"
+#~ msgstr "Workers"
+
+#~ msgid "Profile"
+#~ msgstr "Profilo"
+
+#, fuzzy
+#~ msgid "Profiles"
+#~ msgstr "Profilo"
+
+#, fuzzy
+#~ msgid "Active Logo Image"
+#~ msgstr "Immagine Grande"
+
+#~ msgid "portfolio Type"
+#~ msgstr "Tipo di Portfolio"
+
+#~ msgid "read more &raquo;"
+#~ msgstr "continua a leggere &raquo;"
+
+#~ msgid "Featured Images Size"
+#~ msgstr "Dimensione Immagine Principale"
+
+#~ msgid "Featured Images Width"
+#~ msgstr "Larghezza Immagine Principale"
+
+#~ msgid ""
+#~ "Specific the featured images width, <strong>if you have selected custom "
+#~ "size on option above.</strong>"
+#~ msgstr ""
+#~ "Indica la larghezza da assegnare all'immagine principale del post, nel "
+#~ "caso avessi scelto <strong>dimensioni personalizzate</strong> "
+#~ "nell'opzione precedente."
+
+#~ msgid ""
+#~ "Specific the featured images height, <strong>if you have selected custom "
+#~ "size on option above.</strong>"
+#~ msgstr ""
+#~ "Indica l'altezza da assegnare all'immagine principale del post nel caso "
+#~ "in cui avessi scelto <strong>dimensioni personalizzate</strong> "
+#~ "nell'opzione precedente."
+
+#~ msgid "Footer Type"
+#~ msgstr "Tipo di Footer"
+
+#, fuzzy
+#~ msgid ""
+#~ "Enter text used in the left side of the footer. It can be HTML. "
+#~ "<strong>NB: not figured on \"centered footer\"</strong>"
+#~ msgstr ""
+#~ "Inserisci il testo da mostrare sul lato sinistro del Footer (es. "
+#~ "copyright, credits, ecc). L'HTML è permesso. <strong>NB. non sarà "
+#~ "mostrato nel 'footer centrato'"
+
+#, fuzzy
+#~ msgid ""
+#~ "Enter text used in the right side of the footer. It can be HTML. "
+#~ "<strong>NB: not figured on \"centered footer\"</strong>"
+#~ msgstr ""
+#~ "Inserisci il testo da mostrare sul Footer (es. copyright, credits, ecc). "
+#~ "L'HTML è permesso."
+
+#~ msgid ""
+#~ "You can paste your Google Analytics or other tracking code in this box. "
+#~ "This will be automatically added to the footer."
+#~ msgstr ""
+#~ "Inserisci il tuo codice di Google Analytics o altri codici di "
+#~ "monitoraggio per tenere traccia delle visite al suo sito. Questo sarà "
+#~ "automaticamente aggiunto sul footer"
+
+#~ msgid "Font for main titles"
+#~ msgstr "Font per i titoli principali"
+
+#~ msgid "Widget with a simple address information."
+#~ msgstr "Widget che permette di inserire"
+
+#~ msgid "Address Info"
+#~ msgstr "Informazioni sull'indirizzo"
+
+#~ msgid "Find Us"
+#~ msgstr "Siamo qui"
+
+#~ msgid "Address"
+#~ msgstr "Indirizzo"
+
+#~ msgid "Zip Code"
+#~ msgstr "Codice Postale"
+
+#~ msgid "City"
+#~ msgstr "Città"
+
+#~ msgid "Widget with a simple contact information."
+#~ msgstr "Widget che permette di inserire delle informazioni di contatto."
+
+#~ msgid "Contact Info"
+#~ msgstr "Info Contatti"
+
+#~ msgid "Contacts"
+#~ msgstr "Contatti"
+
+#~ msgid "Phone"
+#~ msgstr "Telefono"
+
+#~ msgid "Sidebar for template \"Home\""
+#~ msgstr "Sidebar per il template \"Home\""
+
+#~ msgid "Sidebar for template \"About\""
+#~ msgstr "Sidebar per il template \"About\""
+
+#~ msgid "Sidebar for template \"Contact\""
+#~ msgstr "Sidebar per il template \"Contatti\""
+
+#~ msgid "%s RSS Feed"
+#~ msgstr "%s Feed RSS "
+
+#~ msgid "%s Atom Feed"
+#~ msgstr "%s Atom Feed"
+
+#~ msgid "Contact Customize"
+#~ msgstr "Personalizzazione Modulo Contatti"
+
+#~ msgid "Premium"
+#~ msgstr "Premium"
+
+#~ msgid "News"
+#~ msgstr "News"
+
+#~ msgid "Show the title of this page."
+#~ msgstr "Mostra il titolo di questa pagina."
+
+#~ msgid "To easily use the "
+#~ msgstr "Facile da usare"
+
+#, fuzzy
+#~ msgid "Color Scheme"
+#~ msgstr "Schema Colori"
+
+#~ msgid "Colour Choose"
+#~ msgstr "Scegli Colore"
+
+#~ msgid "Select the colour you want, of all common elements."
+#~ msgstr "Seleziona il colore di base da assegnare al tema."
+
+#~ msgid "Various"
+#~ msgstr "Varie"
+
+#~ msgid "Links hover color"
+#~ msgstr "Colore Link Hover"
+
+#~ msgid "Date Format"
+#~ msgstr "Formato Data"
+
+#~ msgid ""
+#~ "Set the general date format of theme. Read <a href=\"http://codex."
+#~ "wordpress.org/Formatting_Date_and_Time\">Documentation on date "
+#~ "formatting</a>"
+#~ msgstr ""
+#~ "Configura il formato generale della data. Leggi la <a href=\"http://codex."
+#~ "wordpress.org/Formatting_Date_and_Time\">Documentazione sulla "
+#~ "formattazione della data</a>."
+
+#~ msgid "Addtionale JS scripts"
+#~ msgstr "Js aggiuntivo"
+
+#~ msgid "here your script"
+#~ msgstr "qui il tuo script"
+
+#~ msgid "Slider type"
+#~ msgstr "Scegli il tipo di Slider"
+
+#~ msgid "Select the slider type that you want on home page."
+#~ msgstr "Seleziona il tipo di Slider da utilizzare in Home Page"
+
+#~ msgid "Main Typography"
+#~ msgstr "Tipografia Principale"
+
+#~ msgid "Main Text"
+#~ msgstr "Testo Principale"
+
+#~ msgid "Head line 1 (h1)"
+#~ msgstr "Titolo 1 (h1)"
+
+#~ msgid "Select the size for headline 1 (h1)."
+#~ msgstr "Seleziona la dimensione da assegnare ai titoli H1."
+
+#~ msgid "Head line 2 (h2)"
+#~ msgstr "Titolo 2 (h2)"
+
+#~ msgid "Select the size for headline 2 (h2)."
+#~ msgstr "Seleziona la dimensione da assegnare ai titoli H2."
+
+#~ msgid "Head line 3 (h3)"
+#~ msgstr "Titolo 3 (h3)"
+
+#~ msgid "Select the size for headline 3 (h3)."
+#~ msgstr "Seleziona la dimensione da assegnare ai titoli H3."
+
+#~ msgid "Head line 4 (h4)"
+#~ msgstr "Titolo 4 (h4)"
+
+#~ msgid "Select the size for headline 4 (h4)."
+#~ msgstr "Seleziona la dimensione da assegnare ai titoli H4."
+
+#~ msgid "Head line 5 (h5)"
+#~ msgstr "Titolo 5 (h5)"
+
+#~ msgid "Select the size for headline 5 (h5)."
+#~ msgstr "Seleziona la dimensione da assegnare ai titoli H5."
+
+#~ msgid "Head line 6 (h6)"
+#~ msgstr "Titolo 6 (h6)"
+
+#~ msgid "Select the size for headline 6 (h6)."
+#~ msgstr "Seleziona la dimensione da assegnare ai titoli H6."
+
+#, fuzzy
+#~ msgid "Navigation Items"
+#~ msgstr "Navigazione"
+
+#~ msgid "Set the size of slogan."
+#~ msgstr "Seleziona la dimensione per il testo dello slogan."
+
+#~ msgid "Sea"
+#~ msgstr "Sea"
+
+#~ msgid "Portrait"
+#~ msgstr "Portrait"
+
+#~ msgid "More Details"
+#~ msgstr "Continua a leggere"
+
+#~ msgid "What's your <span class=\"red-text\">name?</span>"
+#~ msgstr "Qual è il tuo <span class=\"red-text\">nome?</span>"
+
+#, fuzzy
+#~ msgid "pleased to meet you"
+#~ msgstr "è un piacere conoscerti"
+
+#~ msgid "What's your <span class=\"red-text\">e-mail?</span>"
+#~ msgstr "Qual è la tua <span class=\"red-text\">email?</span>"
+
+#~ msgid "I need to give you an answer"
+#~ msgstr "Ho bisogno di darti una risposta"
+
+#~ msgid "How can I <span class=\"red-text\">help</span> you?"
+#~ msgstr "Come ti posso <span class=\"red-text\">aiutare</span>?"
+
+#~ msgid "let me know"
+#~ msgstr "dimmi pure"
+
+#~ msgid "Product"
+#~ msgstr "Prodotto"
+
+#~ msgid "Footer Navigation"
+#~ msgstr "Navigazione Footer"
+
+#~ msgid "Insert correct email"
+#~ msgstr "Inserisci un indirizzo email corretto"
+
+#, fuzzy
+#~ msgid "This field is required"
+#~ msgstr "Questo campo è obbligatorio"
+
+#~ msgid "Your Account"
+#~ msgstr "Il Tuo Account"
+
+#~ msgid "Password Lost and Found"
+#~ msgstr "Password persa o trovata"
+
+#~ msgid "Lost password?"
+#~ msgstr "Passowrd dimenticata?"
+
+#~ msgid "The name and email field are required"
+#~ msgstr "I campi email e nome sono obbligatori"
+
+#~ msgid "jQuery Slider"
+#~ msgstr "Slider jQuery"
+
+#~ msgid "Web Site Testimonial"
+#~ msgstr "Sito Web Testimonial"
+
+#~ msgid "Choose layout sidebar, for different titles style."
+#~ msgstr ""
+#~ "Scegli il layout della sidebar con i differenti stili associati ai titoli."
+
+#~ msgid "Number of columns"
+#~ msgstr "Numero di colonne"
+
+#~ msgid "Format Layout"
+#~ msgstr "Formato Layout"
+
+#, fuzzy
+#~ msgid "Row deleted correctly!"
+#~ msgstr "Elemento eliminato correttamente"
+
+#~ msgid "A simple section with title and text, with optional icon."
+#~ msgstr "Una semplice sezione con titolo e testo, con icona addizionale."
+
+#~ msgid "Section Newsletter"
+#~ msgstr "Sezione Newsletter"
+
+#~ msgid ""
+#~ "A simple section like 'Section Text', with a form for newsletter "
+#~ "subscriptions."
+#~ msgstr ""
+#~ "Una semplice sezione simile a 'Sezione Testo', con un form per le "
+#~ "sottoscrizioni alle newsletter."
+
+#, fuzzy
+#~ msgid "Last Post Category"
+#~ msgstr "Categorie"
+
+#~ msgid ""
+#~ "A simple section like 'Section Text', with a list of last post from "
+#~ "specific category"
+#~ msgstr ""
+#~ "Una semplice sezione simile a 'Sezione Testo', con una lista di ultimi "
+#~ "post da una specifica categoria."
+
+#~ msgid ""
+#~ "Select the colour scheme for the theme. <br/> WARNING: if you want to "
+#~ "change the color scheme and the color below this form too, you have to "
+#~ "change this color scheme in first and then, after update, you can change "
+#~ "single colors, in 'Colors' section."
+#~ msgstr ""
+#~ "Seleziona lo schema colore per il tema. <br/> ATTENZIONE: Se vuoi "
+#~ "cambiare il colore principale del tema (schema colore) e "
+#~ "contemporaneamente vuoi modificare altri colori mostrati nei campi "
+#~ "successivi, devi prima modificare lo schema colore principale, salvare i "
+#~ "cambiamenti e solo dopo modificare tutti gli altri colori che sono "
+#~ "associati allo schema colore principale."
+
+#~ msgid "Color Nav Links"
+#~ msgstr "Colore Link Navigazione"
+
+#~ msgid "Select the colour of navigation links."
+#~ msgstr ""
+#~ "Seleziona il colore da assegnare ai link della Navigazione principale."
+
+#~ msgid "Color Nav Links Hover"
+#~ msgstr "Colore Hover Link Navigazione"
+
+#~ msgid "Select the colour of hover state of navigation links."
+#~ msgstr ""
+#~ "Seleziona il colore da assegnare allo stato Hover dei link della "
+#~ "navigazione."
+
+#~ msgid "Color Nav Links Descriptions"
+#~ msgstr "Colore Link Descrizione Navigazione"
+
+#~ msgid ""
+#~ "Select the colour of text description, under each item of navigation."
+#~ msgstr ""
+#~ "Seleziona il colore da assegnare al testo descrittivo mostrato sotto ogni "
+#~ "elemento delle navigazione principale del tema."
+
+#~ msgid "Color Title Footer"
+#~ msgstr "Colore Titoli Footer"
+
+#~ msgid "Select the title color, of each section of footer."
+#~ msgstr ""
+#~ "Seleziona il colore da assegnare ai titoli presenti su ogni sezione del "
+#~ "footer."
+
+#~ msgid "Background Color of Flickr Thumbs"
+#~ msgstr "Colore di Sfondo per le miniature di Flickr"
+
+#~ msgid "Select the background color of flickr thumbs, on footer."
+#~ msgstr ""
+#~ "Seleziona il Colore dello sfondo che desideri assegnare alle miniature di "
+#~ "Flickr presenti sul Footer."
+
+#~ msgid "Border Color of Flickr Thumbs"
+#~ msgstr "Colore del Bordo per le miniature di Flickr"
+
+#~ msgid "Select the border color of flickr thumbs, on footer."
+#~ msgstr ""
+#~ "Seleziona il colore del Bordo che desideri assegnare alle miniature di "
+#~ "Flickr presenti sul footer."
+
+#, fuzzy
+#~ msgid "Background Color of Quick Contact form"
+#~ msgstr "Colore di Sfondo per le miniature di Flickr"
+
+#, fuzzy
+#~ msgid "Select the background color of quick contact form, on footer."
+#~ msgstr ""
+#~ "Seleziona il Colore dello sfondo che desideri assegnare alle miniature di "
+#~ "Flickr presenti sul Footer."
+
+#, fuzzy
+#~ msgid "Border Color of Quick Contact form"
+#~ msgstr "Colore Bordo Footer"
+
+#, fuzzy
+#~ msgid "Select the border color of quick contact form, on footer."
+#~ msgstr ""
+#~ "Seleziona il colore del Bordo che desideri assegnare alle miniature di "
+#~ "Flickr presenti sul footer."
+
+#~ msgid "Select the colour scheme for the theme."
+#~ msgstr "Seleziona il colore per il tema."
+
+#~ msgid ""
+#~ "Select the category for the text will appear on grey section, under some "
+#~ "sliders."
+#~ msgstr ""
+#~ "Seleziona la categoria di articoli che vuoi associare alla sezione grigia "
+#~ "presente sotto alcuni tipi di Slider."
+
+#, fuzzy
+#~ msgid "Show Colourful Section"
+#~ msgstr "Mostra la Sezione con Sfondo Colorato"
+
+#~ msgid "Say if you want to show the testimonial slider."
+#~ msgstr "Indica se desideri mostrare lo Slider Testimonial."
+
+#~ msgid "Error fields required"
+#~ msgstr "Errore campi obbligatori"
+
+#~ msgid "Define the message error for the required fields."
+#~ msgstr "Indica il messaggio d'errore da mostrare per i campi obbligatori."
+
+#~ msgid "Define the message error for email field."
+#~ msgstr "Indica il messaggio di errore da mostrare per il campo email."
+
+#~ msgid "Sent success"
+#~ msgstr "Inviato con successo!"
+
+#~ msgid "Email sent correctly, thanks!"
+#~ msgstr "Email inviata correttamente, grazie!"
+
+#~ msgid "Sent failed"
+#~ msgstr "Invio fallito"
+
+#~ msgid "Send Button"
+#~ msgstr "Pulsante Invio"
+
+#~ msgid "Big Footer"
+#~ msgstr "Footer Grande"
+
+#~ msgid "Small Footer"
+#~ msgstr "Footer Piccolo"
+
+#~ msgid "N° Rows"
+#~ msgstr "N° Righe"
+
+#~ msgid ""
+#~ "Select the number of rows you want to show on <strong>Big Footer</strong>."
+#~ msgstr ""
+#~ "Seleziona il numero di righe che vuoi mostrare nel <strong>Footer Grande</"
+#~ "strong>."
+
+#~ msgid "Active Gallery"
+#~ msgstr "Attiva Galleria "
+
+#~ msgid ""
+#~ "Select if you want to show more text after tooltip content, linked with "
+#~ "slide's link."
+#~ msgstr ""
+#~ "Seleziona se vuoi mostrare il link 'More' dopo il contenuto, che "
+#~ "indirizza al collegamento dello slide."
+
+#~ msgid "Single Product Page"
+#~ msgstr "Pagina Singolo Prodotto"
+
+#~ msgid "Show Special Items Widget"
+#~ msgstr "Mostra Widget Prodotti Speciali"
+
+#~ msgid "Title Special Items Widget"
+#~ msgstr "Titolo widget Prodotti Speciali"
+
+#~ msgid "The title of the special items widget after product details."
+#~ msgstr "Indica il titolo da assegnare ai Prodotti Speciali"
+
+#~ msgid "Description Special Items Widget"
+#~ msgstr "Descrizione Widget Prodotti Speciali"
+
+#~ msgid "The description of the special items widget after product details."
+#~ msgstr ""
+#~ "Indica una breve descrizione da assegnare al Widget dei Prodotti Speciali."
+
+#, fuzzy
+#~ msgid "Picture"
+#~ msgstr "Parti"
+
+#, fuzzy
+#~ msgid "Select gallery"
+#~ msgstr "Seleziona il nome dello Slider."
+
+#, fuzzy
+#~ msgid "Slideshow"
+#~ msgstr "Slides"
+
+#, fuzzy
+#~ msgid "Watermark"
+#~ msgstr "Formato Data"
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "Cancella commento"
+
+#, fuzzy
+#~ msgid "Insert"
+#~ msgstr "Risposta"
+
+#~ msgid "Icon (near title)"
+#~ msgstr "Icone (vicino al titolo)"
+
+#~ msgid "Where I can reply?"
+#~ msgstr "Dove posso risponderti?"
+
+#~ msgid "Talk to me."
+#~ msgstr "Parlami."
+
+#~ msgid "Send Message"
+#~ msgstr "Invia Messaggio"
+
+#~ msgid "On 'Theme Options' you can configure the sending options."
+#~ msgstr "Su 'Theme Options' puoi configurare le opzioni di invio."
+
+#~ msgid "One or more field aren't filled correctly!"
+#~ msgstr "Uno o più campi non sono stati compilati correttamente!"
+
+#~ msgid "Border left of navigation item"
+#~ msgstr "Bordo Divisore Navigazione"
+
+#~ msgid "Select the border left color, of each item of main navigation."
+#~ msgstr ""
+#~ "Seleziona il colore da assegnare al Bordo Divisore presente nella "
+#~ "Navigazione principale del tema."
+
+#~ msgid "Border right of navigation item"
+#~ msgstr "Bordo destro del menù di navigazione"
+
+#~ msgid "Select the border right color, of each item of main navigation."
+#~ msgstr ""
+#~ "Seleziona il colore da assegnare al bordo destro per ogni voce della "
+#~ "navigazione principale del tema."
+
+#~ msgid "Color Active link of Arrow Fade Slider"
+#~ msgstr "Colore Link sullo Slider Arrow Fade"
+
+#~ msgid ""
+#~ "Select the active link color of 'Arrow Fade Slider', if you have selected "
+#~ "it on 'Slider Options'."
+#~ msgstr ""
+#~ "Seleziona il colore da assegnare ai link attivi sullo slider Arrow Fade "
+#~ "(nel caso su 'Opzioni Slider) avessi scelto di utilizzare questo tipo di "
+#~ "slider."
+
+#~ msgid "Color Text Footer"
+#~ msgstr "Colore Testo Footer"
+
+#~ msgid "Define the message error for name field."
+#~ msgstr "Indica il messaggio di errore da mostrare per il campo Nome."
+
+#~ msgid "The field name and email are required"
+#~ msgstr "I campi nome ed email sono obbligatori"
+
+#~ msgid "Map"
+#~ msgstr "Mappa"
+
+#~ msgid "|| Read news"
+#~ msgstr "|| Leggi News"
+
+#~ msgid "Arrow Fade Slider Settings"
+#~ msgstr "Impostazioni Slider Arrow Fade"
+
+#~ msgid "Arrow Fade Slides"
+#~ msgstr "Slide Arrow Fade"
+
+#~ msgid "Full Width Slider Settings"
+#~ msgstr "Impostazioni Slider Full Width"
+
+#~ msgid "Full Width Slides"
+#~ msgstr "Slide Full Width"
+
+#~ msgid "Text Under Sidebar"
+#~ msgstr "Testo sotto la Sidebar"
+
+#~ msgid ""
+#~ "Write what you want to show under the content and sidebar, on home page."
+#~ msgstr ""
+#~ "Scrivi qui quello che vuoi mostrare sotto il contenuto e la sidebar "
+#~ "presenti sulla home Page"
+
+#~ msgid "Specific what category you want to assign to the posts of portfolio."
+#~ msgstr ""
+#~ "Specifica quale categoria desideri associare alla pagina portfolio, così "
+#~ "da mostrarne i relativi contenuti."
+
+#~ msgid "Telephone"
+#~ msgstr "Telefono"
+
+#~ msgid "Enter your telephone number, showed near 'CALL US'"
+#~ msgstr "Inserisci il tuo numero di telefono"
+
+#~ msgid "Enter your fax number, showed near 'FAX US'"
+#~ msgstr "Inserisci il tuo numero di Fax"
+
+#~ msgid "Socials icons"
+#~ msgstr "Icone Social"
+
+#~ msgid ""
+#~ "Insert into this textarea the shortcode to display the socials icons.<br /"
+#~ ">You can use this format for show the icons: [social type=\"facebook|"
+#~ "twitter|ecc...\" href=\"the_url_of_your_social_page\"]. You can find more "
+#~ "information of this shortcode, on help docs of this theme."
+#~ msgstr ""
+#~ "Inserisci dentro la textarea lo shortcode per mostrare le icone dei "
+#~ "social.<br />Per mostrare le icone puoi usare questo formato: [social "
+#~ "type=\"facebook|twitter|ecc...\" href=\"the_url_of_your_social_page\"]. "
+#~ "Puoi trovare ulteriori informazioni sull'utilizzo di questo shortcode "
+#~ "nella documentazione di supporto rilasciata insieme al tema oppure alla "
+#~ "<a href=\"http://www.yourinspirationweb.com/tf/bolder/shortcode/widgets/"
+#~ "\">seguente</a> pagina web."
+
+#~ msgid "Google Map Code"
+#~ msgstr "Codice Google Map"
+
+#~ msgid "Insert here the google map code, if you want to show it."
+#~ msgstr "Inserisci qui il codice relativo alla Google Map che vuoi mostrare."
+
+#~ msgid ""
+#~ "Write your information for address box, in alternative to google map. "
+#~ "(HTML is allowed)"
+#~ msgstr ""
+#~ "Scrivi le informazioni che desideri visualizzare nel box destinato agli "
+#~ "indirizzi in alternativa alla Google Map. (Il codice HTML è permesso)."
+
+#~ msgid "Flash News Footer"
+#~ msgstr "Flash News Footer"
+
+#~ msgid "Category Flash News"
+#~ msgstr "Categoria Flash News"
+
+#~ msgid ""
+#~ "Select the category for posts to show on the flash news, above the footer."
+#~ msgstr ""
+#~ "Seleziona la categoria per mostrare gli articoli nella sezione flash news "
+#~ "che si trova sopra il footer."
+
+#~ msgid "Items for Flash News"
+#~ msgstr "News da mostrare"
+
+#~ msgid "Select how many items you want to show on the flash show cycle."
+#~ msgstr ""
+#~ "Indica quante news desideri mostrare in ciclo nella sezione Flash News."
+
+#~ msgid "Nivo Big Slides"
+#~ msgstr "Slide Nivo Big"
+
+#~ msgid "Products"
+#~ msgstr "Prodotti"
+
+#~ msgid ""
+#~ "Select how many items you want to show.<br /> (PS: on 'Arrow Fade "
+#~ "Slider', are raccomanded 5 items, for a better visualization)"
+#~ msgstr ""
+#~ "Seleziona il numero di oggetti da mostrare in ciclo nello Slider. <br /> "
+#~ "(PS: nello slider chiamato 'Arrow Fade Slider', sono consigliati 5 "
+#~ "oggetti per una corretta visualizzazione)"
+
+#~ msgid "Select the category for posts to show on the slider."
+#~ msgstr "Seleziona la categoria di articoli che vuoi associare allo Slider."
+
+#~ msgid "Get in touch"
+#~ msgstr "Restiamo in contatto"
+
+#~ msgid "CALL US:"
+#~ msgstr "Chiamaci"
+
+#~ msgid "FAX US:"
+#~ msgstr "Fax"
+
+#~ msgid "Social"
+#~ msgstr "Social"
+
+#~ msgid "Items for News below the slider"
+#~ msgstr "Numero di oggetti per le News sotto lo Slider"
+
+#~ msgid ""
+#~ "Select how many items you want to show on the news will appear below some "
+#~ "sliders."
+#~ msgstr ""
+#~ "Indica quante news desideri mostrare (in ciclo) in questa sezione "
+#~ "visualizzata sotto alcuni tipi di slider."
+
+#~ msgid "|| Leggi news"
+#~ msgstr "|| Leggi news"

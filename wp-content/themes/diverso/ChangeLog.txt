@@ -1,0 +1,421 @@
+------------------ VER 1.5.2 - Jan 15, 2013 ----------------
+Fixed: Fatal error in functions-panel.php
+Fixed: Error in the archive page
+
+UPDATED
+core/theme-options/functions-panel.php
+loop.php
+loop-blog-big.php
+
+------------------ VER 1.5.1 - Dec 21, 2012 ----------------
+
+Added: compatibility with version 3.5 of wordpress
+
+
+
+------------------ VER 1.5 - Jun 18, 2012 ----------------
+
+Fixed: notices after update wordpress to 3.4
+Fixed: bugs in recent and popular posts widget
+Fixed: bug in almost all categories widget
+Fixed: bug in sliders when the hteme is installed in a windows server
+Fixed: bug in comments list of blog
+Fixed: localization of theme options panel
+Added: gallery in the lightbox of portfolio filterable
+
+UPDATED
+core/default-shortcodes/widgets.php
+core/default-widgets/almost_all_categories.php
+core/functions-sliders.php
+core/notifier/default.xml
+core/settings.php
+core/theme-options/functions-panel.php
+core/theme-options/panel.php
+core/theme-options/yiw-panel.php
+inc/shortcodes.php
+js/jquery.custom.js
+portfolio-filterable.php
+portfolio.php
+style.css
+
+
+
+------------------ VER 1.4.2 --------------
+
+Fixed : colors options for the slogan
+Fixed : bugs in more projects widgets
+Fixed : categories list in the portfolio and gallery categories widgets
+Fixed : cufon refreshing, in the filterable effect of portfolio and gallery
+Fixed : category filtering in the gallery filterable page
+Fixed : double fixed-image header in responsive
+Fixed : [works] shortcode that didn't worked
+Added : option to show or hide the breacrumbs in general
+Added : more text field in the "Popular Posts" widget
+
+UPDATE
+core/default-shortcodes/widgets.php
+core/includes/js/jquery.tweetable.js
+core/mtx-safe-wp-load.php
+inc/colors.php
+inc/functions-theme.php
+inc/shortcodes.php
+inc/theme-options/general-options.php
+inc/widgets/more_projects.php
+inc/widgets/popular_posts.php
+inc/widgets/portfolio_categories.php
+js/jquery.custom.js
+home-testimonials.php
+loop-blog-big.php
+portfolio-3cols.php
+portfolio-big_image.php
+portfolio-filterable.php
+portfolio.php
+sidebar-blog.php
+sidebar-portfolio.php
+slider.php
+slogan.php
+style.css
+
+
+
+------------------ VER 1.4.1 --------------
+
+Fixed : shortcodes for the video [youtube] and [vimeo]
+Fixed : bugs with the sliders and featured content
+Fixed : bugs with the retrieving widgets
+Fixed : bugs in the contact form sending system
+Fixed : rewrite settings for the infinity portfolios
+Fixed : transition delay in the thumbnails slider
+Fixed : menu navigation in not apple devices
+Fixed : size of the videos in the portfolio single pages
+Fixed : alignment of the topbar links
+Fixed : some color options of the footer and copyright section
+Added : target atributes in the shortcodes [button] and [social]
+Added : ability to automatically fill contact form fields, using the query string
+Added : each section of theme options will be opened, after saving an option of that section
+Added : links to home testimonials slider
+Added : icon in the 404 not found page
+Removed : last news widget
+Updated : translation files
+
+UPDATED
+archives.php
+core/default-shortcodes/content.php
+core/default-shortcodes/media.php
+core/default-shortcodes/widgets.php
+core/functions-sliders.php
+core/functions-widgets.php
+core/sendemail.php
+core/settings.php
+core/theme-options/functions-panel.php
+core/theme-options/include/panel-import.php
+core/theme-options/include/rm_script.js
+core/theme-options/panel.php
+core/theme-options/yiw-panel.php
+css/slider-elastic.css
+functions.php
+gallery.php
+header.php
+home-testimonials.php
+inc/functions-theme.php
+inc/infinity-portfolio.php
+inc/post-types.php
+inc/shortcodes.php
+inc/widgets/gallery_categories.php
+js/jquery.custom.js
+js/jquery.tweetable.js
+languages/default.mo
+languages/default.po
+languages/it_IT.mo
+languages/it_IT.po
+languages/yiw.pot
+loop-blog-big.php
+loop-portfolio.php
+portfolio-filterable.php
+portfolio-slider.php
+single-portfolio.php
+style.css
+
+DELETED
+inc/widgets/last_news.php
+
+ADDED
+images/icons/search.png
+
+
+------------------ VER 1.4 -----------------
+
+Fixed : layout displaying in the iPad, considered as 960px instead of 1024px width of resolution
+Fixed : fatal error Call-time pass-by-reference shown
+Fixed : warning in the sliders 
+Fixed : navigation in the dropdown menues in not Apple devices
+Fixed : showing taxonomies in the portfolios admin sections
+Fixed : removed the slider in the register page for the multisites
+Fixed : bug with the email sent in the contact form
+Fixed : layout for the blog small where there isn't the thumbnail in the post
+Fixed : the loading placeholder in elastic slider
+Fixed : navigation in IE7 browser
+Fixed : layout of blog big image and similar layout of other pages, as gallery and portfolio single post
+Fixed : issues in style of last news widget
+Restored : the iframe for the google maps and fixed issue with position of map
+Added : ability to add the slider in all page
+Added : automatic creation of sidebar for each portfolio
+Added : ability to add some links in the [tabs] shortcode, to link to another tab of the same tabs
+Added : excerpt for the search results
+Added : the label name of website for the testimonials
+Added : target attribute in the shortcode [button_icon]
+Added : speed and timeout attributes in the shortcode [testimonials_slider]
+
+
+UPDATED
+core/default-shortcodes/content.php
+core/functions-sliders.php
+core/mobile-detect.php
+core/sendemail.php
+core/theme-options/functions-panel.php
+core/theme-options/install/install.php
+core/theme-options/panel.php
+css/lessthen800.css
+css/slider-elastic.css
+gallery.php
+header.php
+inc/theme-options/accordions-options.php
+inc/theme-options/sliders-options.php
+inc/widgets/featured_projects.php
+inc/widgets/icon_text.php
+inc/widgets/portfolio_categories.php
+inc/config-theme.php
+inc/functions-theme.php
+inc/infinity-portfolio.php
+inc/metaboxes.php
+inc/shortcodes.php
+js/jquery.custom.js
+js/jquery.eislideshow.js
+loop-blog-big.php
+loop-blog-small.php
+loop.php
+map.php
+portfolio-slider.php
+sidebar-portfolio.php
+slider.php
+slider-elastic.php
+style.css
+
+ADDED
+sidebar-gallery.php
+single-bl_gallery.php
+
+
+
+------------------ VER 1.3.1 ---------------
+
+1) Fixed : warning shown in the home sliders
+2) Fixed : creation of categories in infinity portfolios
+3) Fixed : bug in elastic slider
+4) Fixed : style of testimonials slider
+5) Fixed : bug in the style of tabs, in IE browser versions
+6) Fixed : reading settings for the "Posts page"
+7) Fixed : images sizes in the sliders for the multisites
+8) Fixed : javascript error generated when the testimonial slider in home is empty
+9) Fixed : show breadcrumb setting, that return to "Yes" when is saved each page
+10) Added : ability to add link to [section] shortcode, by using the attribute "link="
+11) Added : the "offset=" attribute in the shortcode [last_news]
+12) Added : two options in the theme options panel, inthe blog settings section, to tell if show the featured images in blog posts page and post single page
+13) Removed : the partial responsive behavior in the minor version of IE9, because not compatible
+
+UPDATED
+core/default-shortcodes/content.php
+core/functions-sliders.php
+core/functions-template.php
+core/sendemail.php
+inc/theme-options/general-options.php
+inc/widgets/portfolio_categories.php
+inc/functions-theme.php
+inc/infinity-portfolio.php
+inc/metaboxes.php
+inc/shortcodes.php
+js/jquery.custom.js
+footer-twitter.php
+header.php
+home-testimonials.php
+home.php
+loop-blog-big.php
+loop-blog-small.php
+portfolio-slider.php
+slider-elastic.php
+slogan.php
+style.css
+
+
+
+------------------ VER 1.3 ---------------
+
+1) Fixed : bug with portfolio single post layout, the post content was been duplicated after the footer
+2) Fixed : make the video more responsive
+3) Fixed : bug with retrieving widget
+4) Fixed : first image cut in the cycle slider
+5) Fixed : warning shown by the update notifier system
+6) Fixed : some bugs with responsive elements layout
+7) Fixed : bug with qtranslate compatibility
+8) Fixed : bug with map tab
+9) Fixed : bug with rewrite urls of pages and posts
+10) Fixed : bug with shortcode/widgets recent post and last news, when you select "no" in the thumbnail option
+11) Fixed : position of third level menu, when it go off the layout container
+12) Fixed : hover of the thumbnail in the gallery page
+13) Fixed : option to change the prettyphoto style (NB: It should be necessary save the options to have the style in prettyphoto)
+14) Fixed : dropdown menu showing in mobile devices not iPhone and iPad
+15) Added : ability to add the tags data_name in the fields "to", "from email" and "from name", in the contact form configuration
+16) Added : new option in the theme options panel, where you can active or deactive the responsive layout for the minor resolution
+17) Added : ability to make the map tab already opened, when the page is loaded
+
+UPDATED
+core/default-shortcodes/media.php
+core/default-widgets/almost_all_categories.php
+core/functions-core.php
+core/functions-sliders.php
+core/notifier/update-notifier.php
+core/theme-options/install/install.php
+core/core.php
+core/functions-sliders.php
+core/functions-template.php
+core/sendemail.php
+core/settings.php
+css/lessthen480.css
+css/slider-cycle.css
+inc/functions-theme.php
+inc/metaboxes.php
+inc/post-types.php
+inc/shortcodes.php
+inc/theme-options/general-options.php
+js/jquery.custom.js
+featured_projects.php
+header.php
+loop-blog-big.php
+map.php
+single.php
+style.css
+
+ADDED
+core/mobile-detect.php
+css/lessthen800.css
+
+
+
+------------------ VER 1.2.1 ---------------
+
+1) Fixed : layout of portfolio big image in mobile versions
+2) Fixed : adjusting height of slider cycle
+3) Fixed : various bugs with slider cycle
+4) Fixed : setting for lightbox layout of portfolio
+5) Fixed : single portfolio layout page of new portfolio created
+6) Fixed : widget "More Projects" for new portfolio pages
+7) Fixed : various bugs in the code
+8) Fixed : bugs with map on contact page
+9) Added : capability to add links to [lider] shortcode
+10) Added : latin, cyrillic and greek subset into google fonts
+11) Added : compatibility with qTranslate plugin, for multilingual translating of theme options
+12) Added : subtitle field for accordion slider
+13) Added : google analytics field in theme options panel
+14) Removed : lightbox for mobile versions
+
+UPDATED
+core/default-shortcodes/widgets.php
+core/theme-options/functions-panel.php
+core/functions-core.php
+core/functions-fonts.php
+css/lessthen480.css
+css/lessthen800.css
+css/slider-cycle.css
+inc/theme-options/general-options.php
+inc/widgets/more_projects.php
+inc/functions-theme.php
+inc/infinity-portfolio.php
+inc/metaboxes.php
+inc/post-types.php
+js/jquery.custom.js
+blog.php
+footer.php
+gallery.php
+map.php
+portfolio-3cols.php
+single.php
+style.css
+
+
+------------------ VER 1.2 ---------------
+
+1) Fixed : some bugs with video shortcodes and in portfolio pages
+2) Fixed : some bugs with sliders
+3) Fixed : some bugs in mobile version style
+4) Fixed : style and some javascript controls in slider cycle
+5) Fixed : shadow background image of the container
+6) Fixed : result posts after searching on search form
+7) Fixed : bug when you add a link into a slide of elastic slider
+8) Fixed : style of price box shortcode
+9) Fixed : other various bugs
+10) Added : new option in each portfolio of "new portfolio" section, to choose the text of read more button
+11) Added : new "Default Sidebar" on widgets page, where you can change the widgets of static default sidebar
+12) Updated : all .po files for theme localization
+
+UPDATED
+core/default-shortcodes/media.php
+core/default-shortcodes/widgets.php
+core/functions-sliders.php
+core/functions-template.php
+core/settings.php
+css/lessthen480.css
+css/slider-cycle.css
+images/shadow.png
+inc/theme-options/sliders-options.php
+inc/functions-theme.php
+inc/infinity-portfolio.php
+js/jquery.custom.js
+languages/*.*
+index.php
+portfolio-3cols.php
+portfolio-big_image.php
+portfolio-slider.php
+searchform.php
+sidebar-default.php
+slider-elastic.php
+style.css
+
+ADDED
+search.php
+
+
+
+------------------ VER 1.1 ---------------
+
+1) Fixed some estetic bugs
+2) Added the slider elastic also in the mobile version
+3) Added the accordion slider for the pages
+
+UPDATED
+core/functions-template.php
+css/lessthen480.css
+css/lessthen800.css
+inc/theme-options/sliders-options.php
+inc/theme-options/style.css
+inc/config-theme.php
+inc/functions-theme.php
+inc/metaboxes.php
+inc/post-types.php
+js/jquery.eislidershow.js
+archives.php
+header.php
+page.php
+slider.php
+slider-elastic.php
+style.css
+
+ADDED
+js/jquery.hrzAccordion.js
+accordion-slider.php
+inc/theme-options/accordions-options.php
+
+
+
+------------------ VER 1.0 ---------------
+
+Initial Release

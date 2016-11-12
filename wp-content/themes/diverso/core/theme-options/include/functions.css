@@ -1,0 +1,14 @@
+
+.multi_checkbox ul{
+	width: 280px;
+	display: block;
+	float: left;
+}
+.multi_checkbox ul.small{
+	width: 280px;
+	display: block;
+	float: left;
+}
+.multi_checkbox li.head{
+	font-weight:bold
+}

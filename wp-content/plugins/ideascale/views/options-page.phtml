@@ -1,0 +1,53 @@
+<?php
+/**
+ * Copyright 2008 Chris Abernethy
+ *
+ * This file is part of IdeaScale.
+ *
+ * IdeaScale is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * IdeaScale is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with IdeaScale.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+?>
+<div class="wrap">
+
+    <h2><?php echo wp_specialchars($this->get('heading')) ?></h2>
+
+    <form method="post" action="">
+
+        <?php wp_nonce_field($this->get('nonce_action')) ?>
+
+        <table class="form-table">
+            <tbody>
+                <tr valign="top">
+                    <th scope="row"><label class="selectit" for="<?php echo attribute_escape($this->get('plugin_label') . '_inline_code')?>"><?php echo wp_specialchars(__('Inline Widget', 'ideascale')) ?></label></th>
+                    <td><input id="<?php echo attribute_escape($this->get('plugin_label') . '_inline_code')?>" name="<?php echo attribute_escape($this->get('plugin_label') . '_inline_code')?>" size="50" type="text" value="<?php echo $this->get('inline-code') ?>" />
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <th scope="row"><label class="selectit" id="<?php echo attribute_escape($this->get('plugin_label') . '_icon_code')?>"><?php echo wp_specialchars(__('Feedback Icon', 'ideascale')) ?></label></th>
+                    <td><input id="<?php echo attribute_escape($this->get('plugin_label') . '_icon_code')?>" name="<?php echo attribute_escape($this->get('plugin_label') . '_icon_code')?>" size="50" type="text" value="<?php echo $this->get('icon-code') ?>" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <input type="hidden" name="action" value="update"/>
+
+        <p class="submit">
+            <input type="submit" name="<?php echo attribute_escape($this->get('plugin_label') . '_submit') ?>" value="<?php echo wp_specialchars(__('Save Changes', 'ideascale')) ?>" />
+        </p>
+
+    </form>
+
+</div>
